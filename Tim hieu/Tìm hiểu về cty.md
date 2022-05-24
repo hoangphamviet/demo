@@ -34,7 +34,7 @@
 ## 2.1 Đăng ký tên miền : 
  - 2.1.1 Đăng ký tên miền
 Cung cấp các loại tên miền với các mức giá khác nhau : .xyz, .vn, .com, .com.vn, .net, .info...
- <img src="image/1.PNG">
+ - <img src="image/1.PNG">
 - Nguyên lý đăng ký tên miền:
 - Tên miền không được vượt quá 63 ký tự, bao gồm cả phần .com, .net, .org ...
 - Tên miền chỉ gồm các ký tự trong bảng chữ cái (a-z), các số (0-9) và dấu trừ (-).
