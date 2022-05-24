@@ -235,7 +235,7 @@ Chống chối bỏ: đối tượng thực hiện gửi dữ liệu không th�
 - UMail là dịch vụ email theo tên miền giúp doanh nghiệp có thể kết nối, tương tác với khách hàng/ đối tác một cách dễ dàng, nhanh chóng và chuyên nghiệp hơn.
 Với UMail, doanh nghiệp có ngay một hệ thống quản lý tập trung email nhân viên, đồng thời tăng cường khả năng bảo mật với các cơ chế chống virus/ spam hiện đại.
 - Các tính năng :
-- Nâng tầm thương hiệu :
+- NÂNG TẦM THƯƠNG HIỆU :
 - Khẳng định thương hiệu từ nay email của bạn sẽ chuyên nghiệp hơn với dạng tên miền riêng abc@tencongty.com (vd info@umail.vn) chứ không còn đơn điệu như trước đây.
 - Bảo mật an toàn: 
 Email người dùng được mã hóa trong suốt quá trình truyền tải. Ngoài ra UMail thay đổi cổng kết nối POP3/ IMAP bằng SSL/ TLS giúp nâng cao tính năng bảo mật.
@@ -243,6 +243,49 @@ Email người dùng được mã hóa trong suốt quá trình truyền tải. 
 UMail với tùy chọn di chuyển qua máy chủ IMAP/ POP giúp bạn có thể chuyển đổi dễ dàng tất cả email cũ sang UMail để có những trải nghiệm đỉnh cao.
 - Hỗ trợ kỹ thuật 24/7: 
 - Đội ngũ kỹ thuật UMail giàu kinh nghiệm, chuyên nghiệp luôn sẵn sàng hỗ trợ 24/7, mang đến bạn sự tin tưởng, yên tâm khi sử dụng .
+- QUẢN TRỊ MẠNH MẼ :
+- Chứng thực email:
+- Chứng thực SPF/ DKIM giúp tăng độ tin cây địa chỉ email gửi đi là đúng chủ thể, không bị giả mạo, hạn chế tối đa mail bị đánh dấu spam.
+- Quản lý chuyên nghiệp:
+- Trang quản trị tiện lợi giúp quản trị viên dễ dàng thêm/ xóa/ quản lý nhóm, người dùng và linh hoạt tùy chỉnh dung lượng email trên từng tài khoản.
+- Không lo bỏ sót:
+- Cấu hình Catch-all giúp nhận được tất cả email gửi đến bất kể người gửi nhập sai tên email, không còn phải lo bỏ sót bất kỳ thông tin quan trọng nào.
+- Hoạt động xuyên suốt:
+Luôn có các máy chủ định tuyến và dự phòng SMTP trong trường hợp email không gởi được nhằm đảm bảo hoạt động ổn định của khách hàng.
+
+## 2.5 Máy chủ ảo :
+
+- Máy chủ ảo (VPS) là gì ?
+- Máy chủ ảo (Virtual Private Server - VPS) là dịch vụ máy chủ hoạt động dưới dạng chia sẻ tài nguyên từ một máy chủ vật lý ban đầu. VPS có tính năng như một máy chủ riêng (Dedicated Server). Người sử dụng được cấp quyền cao nhất để toàn quyền quản trị máy chủ.
+- VPS kết nối Internet với 01 IP tĩnh và được cài đặt sẵn hệ điều hành tùy chọn. VPS cho phép quản trị từ xa và cài đặt các phần mềm theo nhu cầu mà không bị giới hạn số lượng domain.
+- VPS thích hợp cho việc xây dựng hệ thống Mail Server, Web Server, Backup, Storage Server... dùng riêng hoặc truyền tải file dữ liệu giữa các chi nhánh với nhau một cách dễ dàng, nhanh chóng thuận tiện và bảo mật.
+- Cloud VPS là máy chủ ảo trên nền tảng điện toán đám mây. Cloud VPS có nhiều ưu điểm vượt trội so với VPS thông thường về độ ổn định và khả năng linh hoạt trong việc cấp phát, mở rộng tài nguyên.
+
+- Sự khác biệt trong giải pháp Cloud VPS/Cloud Server của Nhân Hòa:
+- Hệ thống cung cấp dịch vụ Cloud VPS/Cloud Server của Nhân Hòa được được xây dựng và phát triển trên nền tảng điện toán đám mây OpenStack kết hợp với giải pháp lưu trữ CEPH. Đây là các giải pháp được rất nhiều hãng công nghệ hàng đầu trên thế giới sử dụng để cung cấp hạ tầng về máy chủ, lưu trữ cho các hệ thống với quy mô lớn trong nhiều năm qua như Redhat, IBM, DELL EMC, Cisco, HP.
+- Dịch vụ Cloud VPS/Cloud Server của Nhân Hòa được triển khai trên hạ tầng các cụm máy chủ DELL & HP cực mạnh, sử dụng 100% ổ cứng SSD nhằm tối ưu hóa tốc độ truy suất và độ an toàn dữ liệu cho khách hàng. 
+- Ngoài ra, Cloud VPS/ Cloud Server tại Nhân Hòa còn được giám sát liên tục và được sao lưu dữ liệu định kỳ theo nhu cầu của khách hàng.
+
+- Các đặc tính của Máy chủ ảo điện toán đám mây:
+- Ưu điểm nổi bật : 
+- CAM KẾT UPTIME 99.99% :
+Khi 1 trong các Server vật lý thuộc Server pool xảy ra sự cố, tất cả máy chủ ảo trên đó sẽ được tự động (HA) di chuyển đến 1 trong các server vật lý còn lại, không làm gián đoạn các máy chủ Cloud VPS do vậy Hệ thống luôn được đảm bảo online 100%, không bị mất dữ liệu do lỗi phần cứng gây ra.
+- AN TOÀN VÀ BẢO MẬT DỮ LIỆU :
+Dữ liệu được lưu trữ phân tán với nhiều bản sao khác nhau kèm theo với cơ chế kiểm tra lại giúp loại bỏ các hỏng hóc dữ liệu. Hệ thống luôn được đảm bảo online 100%, không bị mất dữ liệu do lỗi phần cứng gây ra
+- KHỞI TẠO NHANH, DỄ DÀNG NÂNG CẤP :
+- Việc đăng ký và khởi tạo Server hoàn toàn tự động giúp khách hàng tiết kiệm được thời gian của mình. Cloud VPS cho phép tăng giảm tài nguyên(CPU, RAM, HDD) ngay tức thì, khả năng nhân rộng đơn giản, kết nối LAN dễ dàng, đơn giản hơn trong việc phòng chống DDOS...Quản lý thông qua cổng website, các giao thức SSH, Remote Desktop, Telnet….Theo dõi truy cập, truy xuất, lưu lượng.
+- TỐC ĐỘ XỬ LÝ VƯỢT TRỘI :
+- Tốc độ đọc ghi rất lớn do hệ thống máy chủ sử dụng 100% ổ cứng SSD kết hợp với đường truyền vào lên tới 1Gbps cùng công nghệ lưu trữ dự liệu phân tán ra rất nhiều ổ cứng khác nhau.
+- Các đặc tính khác :
+- Cài đặt DNS riêng cho server NS1.DOMAIN.COM – NS2.DOMAIN.COM
+- Full root access với Linux Server, Full Administrator với Windows Server
+- Live Support & Hotline 24x7
+
+
+
+
+
+
 
 
 
