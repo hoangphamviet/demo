@@ -265,7 +265,6 @@ Luôn có các máy chủ định tuyến và dự phòng SMTP trong trường h
 - Hệ thống cung cấp dịch vụ Cloud VPS/Cloud Server của Nhân Hòa được được xây dựng và phát triển trên nền tảng điện toán đám mây OpenStack kết hợp với giải pháp lưu trữ CEPH. Đây là các giải pháp được rất nhiều hãng công nghệ hàng đầu trên thế giới sử dụng để cung cấp hạ tầng về máy chủ, lưu trữ cho các hệ thống với quy mô lớn trong nhiều năm qua như Redhat, IBM, DELL EMC, Cisco, HP.
 - Dịch vụ Cloud VPS/Cloud Server của Nhân Hòa được triển khai trên hạ tầng các cụm máy chủ DELL & HP cực mạnh, sử dụng 100% ổ cứng SSD nhằm tối ưu hóa tốc độ truy suất và độ an toàn dữ liệu cho khách hàng. 
 - Ngoài ra, Cloud VPS/ Cloud Server tại Nhân Hòa còn được giám sát liên tục và được sao lưu dữ liệu định kỳ theo nhu cầu của khách hàng.
-
 - Các đặc tính của Máy chủ ảo điện toán đám mây:
 - Ưu điểm nổi bật : 
 - CAM KẾT UPTIME 99.99% :
@@ -280,6 +279,64 @@ Dữ liệu được lưu trữ phân tán với nhiều bản sao khác nhau k�
 - Cài đặt DNS riêng cho server NS1.DOMAIN.COM – NS2.DOMAIN.COM
 - Full root access với Linux Server, Full Administrator với Windows Server
 - Live Support & Hotline 24x7
+- Thông số kỹ thuật :
+- Hệ điều hành Linux: CentOS, Fedora, Ubuntu, Redhat, Debian…
+- Cài đặt và cấu hình toàn bộ server hoàn tất các services: Apache, PHP, MySQL, Firewall APF/CSF
+- Hosting Control Panel: cPanel, Plesk, DirectAdmin, Kloxo, Webmin...
+- Trao lại cho khách hàng hoàn toàn quyền ROOT, còn Công ty Phần mềm Nhân Hòa không được phép truy xuất trái phép vào máy chủ của khách hàng nếu không có yêu cầu qua Support System hoặc Hotline.
+ ## 2.6 Thiết kế web 
+ - Nhân Hòa có trang web chuyên thiết kế web WEB4S 
+ <img src="image/14.PNG">
+
+ - Ưu điểm :
+ - Tiêu chuẩn HTML – CSS – W3C
+ - Tương thích với mọi thiết bị di dộng
+ - Chuẩn Seo Google – Online Maketing
+ - Tối ưu cho tỉ lệ chuyển đổi đơn hàng
+ - Nhiều giao diện đẹp, phù hợp với các ngành nghề
+ - Tốc độ load nhanh với google speed Mobile > 95/100 điểm
+ - Hỗ trợ 24/7
+
+ - Các gói dịch vụ thiết kế Website chuyên nghiệp tại Web4s
+- Web4s cung cấp các gói dịch vụ thiết kế website giá rẻ, làm website bán hàng, thiết kế web tin tức theo yêu cầu, trọn gói với giá chỉ 9k/ngày
+
+ <img src="image/15.PNG">
+
+ ## 2.7 Tổng đài VFONE
+-  VFONE là tổng đài điện thoại trên nền tảng điện toán đám mây giúp doanh nghiệp tiết kiệm hơn 50% tiền điện thoại hàng tháng.
+- VFONE  có thể kết nối với các đầu số cố định/ 1900/ 1800 của các nhà mạng Việt Nam, cũng như tích hợp lên Website/ CRM giúp doanh nghiệp nâng cao hiệu quả bán hàng và CSKH.
+
+<img src="image/16.PNG">
+ 
+ - VFONE mang lại lợi ích gì :
+ - Tiết kiệm chi phí :
++ Không tốn phí đầu tư hệ thống
++ Không cần điện thoại bàn
++ Tiết kiệm chi phí hàng tháng
+- Dễ dàng sử dụng :
++ Kích hoạt nhanh chóng
++ Quản lý đơn giản
++ Trang quản trị tiếng Việt
+- Mở rộng không giới hạn :
++ Phù hợp tất cả doanh nghiệp
++ Mở rộng/ di chuyển không giới hạn
++ Bảo mật cao, toàn quyền quản lý
+
+## 2.8 Hóa đơn điện tử
+Cung cấp hệ thống hóa đơn điện tử tại HOADON.BIZ
+<img src="image/17.PNG">
+
+- HOADON.BIZ là phần mềm hóa đơn điện tử được phát triển bởi Công ty TNHH Phần mềm Nhân Hòa, tuân thủ theo quy định Thông tư 32/2011/TT-BTC của Bộ Tài Chính hướng dẫn về khởi tạo, phát hành và sử dụng hóa đơn điện tử bán hàng hóa, cung ứng dịch vụ và Nghị định 119/2018/NĐ-CP của Chính phủ quy định về hóa đơn điện tử khi bán hàng hóa, cung cấp dịch vụ.
+
+
+
+
+
+
+
+
+
+
 
 
 
