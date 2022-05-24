@@ -148,6 +148,124 @@ c. Trình duyệt làm thế nào để kiểm tra một SSL là có thực hay 
 
 - Về mặt kỹ thuật, SSL sử dụng mã hóa công khai. Kỹ thuật này giúp cho Website và trình duyệt tự thỏa thuận (bước 4 ở hình trên) một bộ khóa sẽ dùng trong suốt quá trình trao đổi thông tin sau đó. Bộ khóa sẽ thay đổi theo mỗi trong lần giao dịch kế tiếp, một người khác sẽ không thể giải mã ngay cả khi có được dữ liệu của máy chủ lưu trữ chứng chỉ số nói trên.
 
+2. Tại sao nên sử dụng SSL?
+Bạn đăng ký domain để sử dụng các dịch vụ website, email v.v... -> luôn có những lỗ hổng bảo mật -> hacker tấn công -> SSL bảo vệ website và khách hàng của bạn.
+
+Bảo mật dữ liệu: dữ liệu được mã hóa và chỉ người nhận đích thực mới có thể giải mã.
+
+Toàn vẹn dữ liệu: dữ liệu không bị thay đổi bởi tin tặc.
+
+Chống chối bỏ: đối tượng thực hiện gửi dữ liệu không thể phủ nhận dữ liệu của mình.
+
+3. Lợi ích khi sử dụng SSL?
+- Bạn đăng ký domain để sử dụng các dịch vụ website, email v.v… -> luôn có những lỗ hổng bảo mật -> hacker tấn công -> SSL bảo vệ website và khách hàng của bạn.
+- Bảo mật và mã hóa các thông điệp trao đổi giữa trình duyệt và server.
+- Bảo mật các giao dịch giữa khách hàng và doanh nghiệp, các dịch vụ truy nhập hệ thống.
+- Bảo mật webmail và các ứng dụng như Outlook Web Acess, Exchange, và Office Communication Server.
+- Bảo mật các ứng dụng ảo hóa như Citrix Delivery Platform hoặc các ứng dụng điện toán mây.
+- Bảo mật dịch vụ FTP.
+- Bảo mật truy cập Control panel
+- Bảo mật các dịch vụ truyền dữ liệu trong mạng nội bộ, file sharing, extranet.
+- Bảo mật VPN Access Servers, Citrix Access Gateway.
+- Nâng cao hình ảnh, thương hiệu và uy tín doanh nghiệp
+- Nâng cao thứ hạng website trên kết quả tìm kiếm Google (SEO)
+- Tạo lợi thế cạnh tranh, tăng niềm tin của khách hàng đối với website, tăng số lượng giao dịch, giá trị giao dịch trực tuyến của khách hàng. Website không được xác thực và bảo mật sẽ luôn ẩn chứa nguy cơ bị xâm nhập dữ liệu, dẫn đến hậu quả khách hàng không tin tưởng sử dụng dịch vụ.
+
+4. DV-SSL:
+- Domain Validation (DV): chứng thư số SSL chứng thực cho Domain Name - Website . Khi 1 Website sử dụng DV SSL thì sẽ được xác thực tên domain , website đã được mã hoá an toàn khi trao đổi dữ liệu
+
+<img src="image/6.PNG">
+
+5. OV-SSL:
+- Organization Validation (OV): chứng thư số SSL chứng thực cho Website và xác thực doanh nghiệp đang sở hữu website đó
+6. EV-SSL:
+- Extended Validation (EV): cho khách hàng của bạn thấy Website đang sử dụng chứng thư SSL có độ bảo mật cao nhất và được rà soát pháp lý kỹ càng.
+- Với thanh đại chỉ sang màu xanh với hiển thị đầy đủ thông tin của công ty, cung cấp một cấp độ cao hơn tin tưởng vào website của bạn.
+
+<img src="image/7.PNG">
+
+7. Wildcard SSL:
+ -  (Wildcard SSL Certificate): sản phẩm lý tưởng dành cho các cổng thương mại điện tử. Các website dạng này thường có thể tạo ra các trang e-store dành cho các chủ cửa hàng trực tuyến, mỗi e-store là một sub domains và được chia sẻ trên một địa chỉ IP duy nhất. Khi đó, để triển khai giải pháp bảo bảo mật giao dịch trực tuyến (khi đặt hàng, thanh toán, đăng ký & đăng nhập tài khoản,...) bằng SSL, chúng ta có thể dùng duy nhất một chứng chỉ số Wildcard cho tên miền chính của website và dùng chung một địa chỉ IP duy nhất để chia sẻ cho tất cả mọi sub domains.
+
+8. Các dịch vụ SSL của Nhân Hòa:
+
+ - 8.1 Comodo SSL:
+
+ <img src="image/8.PNG">
+ <img src="image/9.PNG">
+
+ - 8.2 Geotrust SSL:
+ <img src="image/10.PNG">
+ <img src="image/11.PNG">
+
+ -8.3 Digicert SSL:
+ <img src="image/12.PNG">
+ <img src="image/13.PNG">
+
+ ## 2.4 Dịch vụ email
+-  Dịch vụ Email Hosting :
+- Dịch vụ Email hosting của Nhân Hòa được cung cấp trên nền tảng máy chủ mạnh mẽ và độc lập, được cấu hình tối ưu cho dịch vụ mail, cùng với giải pháp chống spam và chống virus hiệu quả, đảm bảo cho hoạt động giao dịch email của khách hàng luôn ổn định và nhanh chóng. Giao diện người dùng với đầy đủ các tính năng và dễ sử dụng, cho phép người dùng check mail trên cả Outlook và webmail. Mặt khác control panel quản trị chuyên nghiệp cho phép người quản trị thiết lập các tùy biến một cách chi tiết đến từng người dùng và email đi-đến. Email Hosting của Nhân Hòa là giải pháp tối ưu cho các tổ chức, doanh nghiệp muốn có một hệ thống email chuyên nghiệp, tin cậy và hiệu quả.
+- Các tính năng chính của dịch vụ: 
+- Thiết lập địa chỉ email theo tên miền riêng.
+- Control Panel quản lý chuyên nghiệp.
+- Giao diện người dùng dễ sử dụng.
+- Cho phép check mail trên Outlook và Webmail (POP3/SMTP/Webmail).
+- Tùy ý thiết lập dung lượng cho từng Mail Box.
+- Cho phép cài đặt Catch All/ Mail offline.
+- Sao lưu dữ liệu định kỳ hàng tuần.
+- Thiết lập chế độ cho email đi-đến.
+- Kiểm soát lưu lượng email đi-đến.
+- Tính năng e-mail tự động hồi âm (Email Autoresponders).
+- Anti Spam/ Anti Virus/ Anti Bombmail.
+- Nâng cấp/ mở rộng dễ dàng không gián đoạn dịch vụ.
+- Dịch vụ Email Server :
+- Dịch vụ Email server của Nhân Hòa là giải pháp email chuyên nghiệp vận hành trên một máy chủ độc lập, với địa chỉ IP riêng và control panel quản trị riêng. Bên cạnh việc kế thừa các tính năng của Email Hosting, dịch vụ Email server còn có nhiều ưu điểm vượt trội về năng lực xử lý dữ liệu, không gian lưu trữ, và khả năng tùy biến trong quản trị dịch vụ. Dịch vụ Email server phù hợp với các tổ chức/ doanh nghiệp có nhu cầu giao dịch email lớn hoặc muốn xây dựng một hệ thống email chuyên nghiệp, độc lập, bảo mật và tin cậy.
+- Các tính năng chính của dịch vụ:
+- Cài đặt trên một máy chủ độc lập.
+- Sử dụng một IP riêng  đảm bảo độ tin cậy cho email.
+- Dung lượng lưu trữ vượt trội (100 GB).
+- Cho phép cài đặt nhiều tên miền riêng (Domain Addon).
+- Không giới hạn số lượng người dùng (Email account).
+- Được cài đặt chứng thực SSL  tăng độ bảo mật cho email.
+- Chứng thực SPF/ Domainkeys/ DKIM  tăng độ tin cậy cho email.
+- Có giao diện dành cho thiết bị di động.
+- Hỗ trợ quản trị dịch vụ 24/7.
+
+- Các dịch vụ Email:
+- UMail là dịch vụ email theo tên miền giúp doanh nghiệp có thể kết nối, tương tác với khách hàng/ đối tác một cách dễ dàng, nhanh chóng và chuyên nghiệp hơn.
+Với UMail, doanh nghiệp có ngay một hệ thống quản lý tập trung email nhân viên, đồng thời tăng cường khả năng bảo mật với các cơ chế chống virus/ spam hiện đại.
+- Các tính năng :
+- Nâng tầm thương hiệu :
+- Khẳng định thương hiệu từ nay email của bạn sẽ chuyên nghiệp hơn với dạng tên miền riêng abc@tencongty.com (vd info@umail.vn) chứ không còn đơn điệu như trước đây.
+- Bảo mật an toàn: 
+Email người dùng được mã hóa trong suốt quá trình truyền tải. Ngoài ra UMail thay đổi cổng kết nối POP3/ IMAP bằng SSL/ TLS giúp nâng cao tính năng bảo mật.
+- Di chuyển email dễ dàng :
+UMail với tùy chọn di chuyển qua máy chủ IMAP/ POP giúp bạn có thể chuyển đổi dễ dàng tất cả email cũ sang UMail để có những trải nghiệm đỉnh cao.
+- Hỗ trợ kỹ thuật 24/7: 
+- Đội ngũ kỹ thuật UMail giàu kinh nghiệm, chuyên nghiệp luôn sẵn sàng hỗ trợ 24/7, mang đến bạn sự tin tưởng, yên tâm khi sử dụng .
+
+
+
+
+  
+
+
+
+
+
+
+
+ 
+
+
+
+ 
+ 
+
+
+
+
+
 
 
 
