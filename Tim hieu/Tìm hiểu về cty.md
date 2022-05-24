@@ -34,7 +34,6 @@
 ## 2.1 Đăng ký tên miền : 
  2.1.1 Đăng ký tên miền
 Cung cấp các loại tên miền với các mức giá khác nhau : .xyz, .vn, .com, .com.vn, .net, .info...
-
 <img src="image/1.PNG">
 
 
