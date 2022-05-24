@@ -43,6 +43,35 @@ Cung cấp các loại tên miền với các mức giá khác nhau : .xyz, .vn,
 - Tên miền càng ngắn càng tốt, dễ nhớ, không gây nhầm lẫn, khó viết sai.
 - Tên miền phải liên quan đến tên chủ thể và lĩnh vực hoạt động.
 - Chủ động nộp phí duy trì trước khi tên miền hết thời hạn sử dụng, tự chịu trách nhiệm khi tên miền bị mất do hết hạn sử dụng mà không đóng phí.
+## 2.2 Hosting :
+- Sinh viên
+- Cá nhân
+- Cá nhân plus
+- Doanh nghiệp
+- Thương mại điện tử
+- Chuyên Nghiệp
+<img src="image/2.PNG">
+
+Đặc tính kĩ thuật:
+- Windows hosting Hỗ trợ nhiều ngôn ngữ lập trình với các phiên bản khác nhau.
+- Miễn phí tạo, quản lý hộp thư điện tử (Email) theo tên miền riêng.
+- Miễn phí tạo tên miền con (Subdomain).
+- Sử dụng nhiều tên miền cho 1 website.
+- Quản lý nhiều website trên cùng 1 tài khoản hosting.
+- Quản lý đăng nhập, giám sát thông số băng thông và dung lượng.
+- Sao lưu dự phòng và khôi phục dữ liệu.
+Thông số: 
+- Hệ điều hành :	Windows server 2012/2016
+- Ngôn ngữ hỗ trợ	: .NET(v1.1,2.0,3.5,4.0,4.6) / PHP 5.x-7.x / ASP
+- Cơ sở dữ liệu :	Microsoft Access / MSSQL Server 2012 / MySQL Server / Hỗ trợ ODBC/ OLEDB
+- Hệ thống email :	WebMail / Email Forwarding / Email Alias/ Catch-all Account / Antivirus / Anti Spam
+- Tính năng truy cập :	FTP Account / WebBase Control Panel / WebBase File Manager
+- Bảng điều khiển	: Plesk Onyx (17) / Plesk Obsidian (18)
+- Tính năng khác	: Hotlink Protection/ Protected Directories/ Webprotect/ Sub domain/ Parked Domain/ Add on Domain/ Bandwidth Status / Disk Usage Viewer/ Error Log/ Customer Error Pages / MIME Type Manager/ Redirect Manager/ Backup Manager/ Database Backup/ DataWeb Backup/ FrontPage Extensions
+
+
+
+
 
 
 
