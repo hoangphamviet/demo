@@ -32,9 +32,19 @@
 - Chiến lược: Phát triển bền vững,  nền tảng văn hoá với con người làm cốt lõi, tiên phong về công nghệ và luôn đổi mới sáng tạo.
 # II. Các dịch vụ của nhân hòa
 ## 2.1 Đăng ký tên miền : 
- 2.1.1 Đăng ký tên miền
+ - 2.1.1 Đăng ký tên miền
 Cung cấp các loại tên miền với các mức giá khác nhau : .xyz, .vn, .com, .com.vn, .net, .info...
-<img src="image/1.PNG">
+- <img src="image/1.PNG">
+- Nguyên lý đăng ký tên miền:
+- Tên miền không được vượt quá 63 ký tự, bao gồm cả phần .com, .net, .org ...
+- Tên miền chỉ gồm các ký tự trong bảng chữ cái (a-z), các số (0-9) và dấu trừ (-).
+- Các khoảng trắng và các ký tự đặc biệt trong tên miền khác đều không hợp lệ.
+- Không thể bắt đầu bằng hoặc kết thúc tên miền bằng dấu trừ (-).
+- Tên miền càng ngắn càng tốt, dễ nhớ, không gây nhầm lẫn, khó viết sai.
+- Tên miền phải liên quan đến tên chủ thể và lĩnh vực hoạt động.
+- Chủ động nộp phí duy trì trước khi tên miền hết thời hạn sử dụng, tự chịu trách nhiệm khi tên miền bị mất do hết hạn sử dụng mà không đóng phí.
+
+
 
 
 
