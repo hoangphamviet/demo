@@ -25,6 +25,19 @@
   # 2.1 Mô hình TCP/IP là gì ?
   - TCP/ IP (Transmission Control Protocol/ Internet Protocol - Giao thức điều khiển truyền nhận/ Giao thức liên mạng), là một bộ giao thức trao đổi thông tin được sử dụng để truyền tải và kết nối các thiết bị trong mạng Internet. TCP/IP được phát triển để mạng được tin cậy hơn cùng với khả năng phục hồi tự động.
 
+- <img src="img/2.PNG">
+# 2.2 Chức năng của từng tầng
+- 2.2.1 Network Access ( tầng vật lý )
++ Nó là sự kết hợp của tầng Data Link và Physical trong mô hình OSI ,bao gồm các giao thức chỉ hoạt động trên một liên kết - thành phần mạng kết nối các nút hoặc các máy chủ trong mạng 
+- 2.2.2 Internet ( tầng mạng )
++ Có nhiệm vụ xử lý các gói và kết nối các mạng độc lập để vận chuyển các gói dữ liệu qua các ranh giới mạng.
+- 2.2.3 Transport ( tầng vận chuyển )
++ Chịu trách nhiệm duy trì liên lạc đầu cuối trên toàn mạng. TCP xử lý thông tin liên lạc giữa các máy chủ và cung cấp điều khiển luồng, ghép kênh và độ tin cậy.
+- 2.2.4 Application (tầng ứng dụng)
++ Cung cấp các ứng dụng với trao đổi dữ liệu được chuẩn hóa, giao tiếp dữ liệu giữa 2 máy khác nhau thông qua các dịch vụ mạng khác nhau (duyệt web, chat, gửi email,...).
+
+
+
 
 
 
