@@ -36,7 +36,21 @@
 - 2.2.4 Application (tầng ứng dụng)
 + Cung cấp các ứng dụng với trao đổi dữ liệu được chuẩn hóa, giao tiếp dữ liệu giữa 2 máy khác nhau thông qua các dịch vụ mạng khác nhau (duyệt web, chat, gửi email,...).
 
+## III.Phân biệt ý của 2 mô hình mối tương quan
+# 3.1 Sự giống nhau 
+- Chia sẻ kiến trúc chung
+ + Cả 2 mô hình đều là mô hình logic và có kiến trúc tương tự vì cả 2 mô hình đều được xây dựng dựa trên các lớp
+-  Xác định tiêu chuẩn 
++ Cả 2 lớp đều có các tiêu chuẩn xác định và chúng cũng cung cấp khuôn khổ được sử dụng để thực hiện các tiêu chuẩn và thiết bị
+- Quy trình khắc phục sự cố được đơn giản hóa
++ Cả 2 mô hình đã đơn giản hóa quá trình khắc phục sự cố bằng cách chia nhỏ chức năng phức tạp thành các thành phần đơn giản hơn
+- Các tiêu chuẩn được xác định trước
++ Các tiêu chuẩn và giao thức đã được xác định trước, những mô hình này không xác định lại chúng, chỉ tham khảo hoặc sử dụng lại chúng. Ví dụ, các tiêu chuẩn Ethernet đã được IEEE xác định trước khi phát triển các mô hình 
+- Cả 2 đều có chức năng tương tự của các lớp Transport và Network 
++ Chức năng được thực hiện giữa lớp Presentation và lớp Network tương tự như chức năng được thực hiện ở lớp Transport
+# 3.2 Sự khác nhau 
 
+<img src="img/3.PNG">
 
 
 
