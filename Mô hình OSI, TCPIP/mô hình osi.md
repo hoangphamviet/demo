@@ -21,7 +21,10 @@
   + Tầng này lấy dữ liệu đã được cung cấp bởi tầng ứng dụng, biến đổi chúng thành một định dạng chuẩn để lớp khác có thể hiểu được định dạng này
   - 1.2.7 Application (tầng ứng dụng)
   + Tầng ứng dụng là tầng gần với người sử dụng nhất. Nó cung cấp phương tiện cho người dùng truy nhập các thông tin và dữ liệu trên mạng thông qua chương trình ứng dụng .
-  
+  # II . Mô hình TCP/IP
+  # 2.1 Mô hình TCP/IP là gì ?
+  - TCP/ IP (Transmission Control Protocol/ Internet Protocol - Giao thức điều khiển truyền nhận/ Giao thức liên mạng), là một bộ giao thức trao đổi thông tin được sử dụng để truyền tải và kết nối các thiết bị trong mạng Internet. TCP/IP được phát triển để mạng được tin cậy hơn cùng với khả năng phục hồi tự động.
+
 
 
 
