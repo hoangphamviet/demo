@@ -52,6 +52,9 @@
 
 <img src="img/3.PNG">
 
+ # 3.3 Kết luận 
+ Mô hình TCP/IP đáng tin cậy hơn, TCP/IP được sử dụng cho kết nối đầu cuối để truyền dữ liệu qua internet . TCP/IP mạnh mẽ , linh hoạt , hữu hình và cũng gợi ý cách dữ liệu nên được gửi qua web. . Lớp vận chuyển của Mô hình TCP/IP kiểm tra xem dữ liệu đã đến theo thứ tự chưa, nó có lỗi hay không, các gói bị mất có được gửi hay không, xác nhận có được nhận hay không,....
+
 
 
 
