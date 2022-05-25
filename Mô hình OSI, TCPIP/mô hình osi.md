@@ -2,3 +2,27 @@
 # 1.1 Mô hình OSI là gì ?
 - Mô hình OSI (Open system interconnection – Mô hình kết nối các hệ thống mở) là một thiết kế dựa vào nguyên lý tầng cấp, lý giải một cách trừu tượng kỹ thuật kết nối truyền thông giữa các máy vi tính và thiết kế giao thức mạng giữa chúng. Mô hình này được phát triển thành một phần trong kế hoạch OSI (Open Systems Interconnection) do ISO và IUT-T khởi xướng. Nó còn được gọi là Mô hình bảy tầng của OSI.
 
+- <img src="img/1.PNG">
+
+# 1.2 Chức năng của từng tầng
+- 1.2.1 Physical Layer (tầng vật lý)
+  +  Physical Layer là tầng thấp nhất trong mô hình 7 lớp OSI. Các thực thể tầng giao tiếp với nhau qua một đường truyền vật lý. Tầng vật lý xác định các thủ tục, chức năng về điện, quang, cơ để kích hoạt và duy trì các kết nối vật lý giữa các hệ thống mạng.
+  +   Cung cấp các cơ chế về hàm, điện, thủ tục,…nhằm kết nối các phần tử của mạng thành một hệ thống bằng các phương pháp vật lý. Đảm bảo các yêu cầu về chuyển mạch hoạt động, tạo ra các đường truyền thực cho các chuỗi bit thông tin.
+- 1.2.2 Datalink (tầng liên kết)
+  +  Tầng liên kết dữ liệu có chức năng chính là thực hiện thiết lập các liên kết, duy trì hay hủy bỏ liên kết dữ liệu. Kiểm soát lỗi và kiểm soát lưu lượng.
+  +  Thông tin được chia thành các khung, truyền các khung tuần tự và xử lý các thông điệp xác nhận được gửi về từ máy thu. Tháo gỡ các khung thành chuỗi bit thành các khung thông tin.
+  - 1.2.3 Network (tầng mạng)
+  + Lớp mạng Network là lớp có trách nhiệm quyết định xem dữ liệu sẽ đến máy nhận như thế nào. Lớp này nắm những thành phần như việc định địa chỉ, định tuyến, và các giao thức logic
+  - 1.2.4 Transport (tầng vận chuyển)
+  + Tầng vận chuyển chịu trách nhiệm chuyển dữ liệu giữa các thiết bị đầu cuối hoặc máy chủ (host).Tầng này lấy dữ liệu từ mỗi ứng dụng và tích hợp tất cả dữ liệu đó vào trong một luồng. Nó cũng chịu trách nhiệm cho việc cung cấp vấn đề kiểm tra lỗi và thực hiện khôi phục dữ liệu khi cần thiết. Bản chất Tầng vận chuyển chịu trách nhiệm cho việc bảo đảm tất cả dữ liệu được truyền từ máy gửi đến máy nhận.
+  - 1.2.5 Session (tầng phiên)
+  + Khi dữ liệu đã được biến đổi thành định dạng chuẩn, máy gửi đi sẽ thiết lập một phiên – session với máy nhận. Đây chính là tầng sẽ đồng bộ hoá quá trình liên lạc của hai máy và quản lý việc trao đổi dữ liệu. Tầng phiên này chịu trách nhiệm cho việc thiết lập, quản lý và chấm dứt session với máy từ xa.
+  - 1.2.6 Presentation (tầng trình bày)
+  + Tầng này lấy dữ liệu đã được cung cấp bởi tầng ứng dụng, biến đổi chúng thành một định dạng chuẩn để lớp khác có thể hiểu được định dạng này
+  - 1.2.7 Application (tầng ứng dụng)
+  + Tầng ứng dụng là tầng gần với người sử dụng nhất. Nó cung cấp phương tiện cho người dùng truy nhập các thông tin và dữ liệu trên mạng thông qua chương trình ứng dụng .
+  
+
+
+
+
