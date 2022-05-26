@@ -38,4 +38,13 @@ Giao thức SNMP là một trong những giao thức mạng  để quản lý v�
 ## 1.8 Giao thức SMTP
  - SMTP (Simple Mail Transfer Protocol) là giao thức truyền tải thư tín đơn giản hóa. Và giao thức này thực hiện nhiệm vụ chính là gửi mail còn việc nhận mail hay truy xuất dữ liệu mail server sẽ có giao thức IMAP hay POP3 đảm nhiệm.
  - SMTP Server (server dùng để gửi mail) là một dịch vụ cho phép gửi email với số lượng lớn, tốc độ nhanh mà không bị giới hạn như các hòm mail miễn phí của Gmail hoặc mail đi kèm hosting. Nói cách khác các máy chỉ chủ giúp bạn thao tác gửi thư người ta thường gọi là SMTP server chúng thực hiện gửi thư qua giao thức TCP hoặc IP.
- Giao thức SMTP hoạt động ntn
+
+ - Giao thức SMTP hoạt động :
+ - Khi doanh nghiệp gửi một email nào đó, hệ thống SMTP sẽ tự động dựa vào tên địa chỉ email đó và chuyển thông báo tới cho máy chủ SMTP. Sau khi SMTP server nhận được tín hiệu, tín hiệu sẽ được trao đổi giữa máy chủ SMTP và máy chủ DNS để tìm ra tên miền gốc tại Hostname trong máy chủ SMTP.
+
+- Máy chủ thực hiện bước kiểm tra liệu thông tin người dùng với thông tin email có trùng khớp hay không, nếu trùng khớp thì doanh nghiệp sẽ nhận hay gửi dữ liệu có dung lượng lớn thông qua email và nhận các thư điện tử bằng phần mềm.
+
+- Nhằm đề phòng trường hợp máy chủ SMTP và máy chủ DNS có thể không trao đổi với nhau, những tín hiệu không được phản hồi ấy sẽ gửi tới server trung gian. Server trung gian vẫn nhận được tín hiệu gốc và bắt đầu truyền qua nhiều máy chủ khác cho tới khi gửi tới Server gốc. Hệ thống phụ sẽ chạy hết công suất cùng thời gian tối đa trước khi tín hiệu bị thông báo là hết hạn và không sử dụng được nữa.
+
+- Hầu hết Email client (outlook, thunderbird, app trên điện thoại, webmail...) đều sử dụng giao thức SMTP để gửi và nhận thư. 
+
