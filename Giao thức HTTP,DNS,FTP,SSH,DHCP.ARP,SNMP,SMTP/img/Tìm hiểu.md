@@ -1,4 +1,4 @@
-# I.Giao thức HTTP 
+# I.Giao thức HTTP
 ## 1.1 Giao thức HTTP
 - HTTP (HyperText Transfer Protocol) là giao thức truyền tải siêu văn bản được sử dụng trong www dùng để truyền tải dữ liệu giữa Web server đến các trình duyệt Web và ngược lại
 ## 1.1.2 Cấu trúc của HTTP
@@ -30,4 +30,12 @@ B2 : Mã hóa dữ liệu thiết lập kênh làm việc mã hóa. Sau khi clie
 B3: Chứng thực và giải mã xác thực người sử dụng có quyền đăng nhập hệ thống.Kết nối này sẽ sử dụng server xác thực client.
 ## 1.5 Giao thức DHCP 
 - DHCP là giao thức được sử dụng để cấu hình địa chỉ ip cho thiết bị máy tính. Mỗi thiết bị của người dùng đều cần phải có ít nhất 1 địa chỉ IP để tham gia vào mạng - để kết nối tới các dịch vụ khác. Nó cung cấp cho máy tính địa chỉ ip ; subnet mask; default gateway. Và nó thường được cấp phát bởi DHPC server được tích hợp sẵn trên router.
-- Cách thực hoạt động của DHCP  : khi có một thiết bị cần truy cập mạng nó sẽ gửi yêu cầu từ một router và được router gán cho một địa chỉ IP khả dụng
+- Cách thực hoạt động của DHCP  : khi có một thiết bị cần truy cập mạng nó sẽ gửi yêu cầu từ một router và được router gán cho một địa chỉ IP khả dụng.Router hoạt động như một máy chủ DHCP đối với các mô hình mạng nhỏ hoặc hộ gia đình. Đối với các mạng lớn hơn một router không thể quản lý số lượng lớn các thiết bị nên sẽ có một máy chủ chuyên dụng để cấp IP.
+## 1.6 Giao thức ARP 
+- ARP (Address Resolution Protocol) là giao thức mạng được dùng để tìm ra địa chỉ phần cứng (địa chỉ MAC) của thiết bị từ một địa chỉ IP nguồn. Nó được sử dụng khi một thiết bị giao tiếp với các thiết bị khác dựa trên nền tảng local network.
+## 1.7 Giao thức SNMP
+Giao thức SNMP là một trong những giao thức mạng  để quản lý và giám sát các phần tử mạng. Hầu hết các thiết bị mạng được cung cấp đi kèm với SNMP agent. Các agent này phải được kích hoạt và cấu hình để giao tiếp với các công cụ giám sát mạng hoặc hệ thống quản lý mạng (NMS).
+## 1.8 Giao thức SMTP
+ - SMTP (Simple Mail Transfer Protocol) là giao thức truyền tải thư tín đơn giản hóa. Và giao thức này thực hiện nhiệm vụ chính là gửi mail còn việc nhận mail hay truy xuất dữ liệu mail server sẽ có giao thức IMAP hay POP3 đảm nhiệm.
+ - SMTP Server (server dùng để gửi mail) là một dịch vụ cho phép gửi email với số lượng lớn, tốc độ nhanh mà không bị giới hạn như các hòm mail miễn phí của Gmail hoặc mail đi kèm hosting. Nói cách khác các máy chỉ chủ giúp bạn thao tác gửi thư người ta thường gọi là SMTP server chúng thực hiện gửi thư qua giao thức TCP hoặc IP.
+ Giao thức SMTP hoạt động ntn
