@@ -1,12 +1,12 @@
 # I.Giao thức HTTP 
 ## 1.1 Giao thức HTTP
 - HTTP (HyperText Transfer Protocol) là giao thức truyền tải siêu văn bản được sử dụng trong www dùng để truyền tải dữ liệu giữa Web server đến các trình duyệt Web và ngược lại
-# 1.1.2 Cấu trúc của HTTP
+## 1.1.2 Cấu trúc của HTTP
 - Cấu trúc của HTTP bao gồm 2 đối tượng là Client và Server. Có thể coi HTTP như giao thức gửi các yêu cầu và phản hồi giữa Client - Server. Tại giao thức này, mọi thiết bị tìm kiếm hay trình duyệt web sẽ đóng vai trò như máy khách, còn máy chủ web có vai trò như Server. 
 
 - Client: Client (máy khách) gửi yêu cầu cụ thể đến Server theo mẫu phương thức yêu cầu -> Các phiên bản giao thức cùng với URI gửi thông báo MIME (gồm thông tin máy khách, nội dung của đối tượng, bộ chỉnh sửa) đến server qua kết nối TCP/IP.
 - Server: Server nhận được yêu cầu -> Phản hồi lại bằng một dòng trạng thái qua thông báo MIME có chứa thông tin máy chủ, thông tin về nội dung của đối tượng và thực thể của đa phương tiện.
-# 1.1.3 cách thức hoạt động: 
+## 1.1.3 cách thức hoạt động: 
 - HTTP hoạt động theo mô hình Client (máy khách) khởi tạo yêu cầu (tạo kết nối TCP tới cổng 80 hoặc 1 cổng khác trên server )-> server nhận yêu cầu -> gửi lại trạng thái đến cho client kèm theo thông điệp (thông điệp ở đây là thông điệp yêu cầu, báo lỗi hay thông tin khác ) . Sau khi phiên giao dịch hoàn thành Việc truy cập website được tiến hành dựa trên các giao tiếp giữa 2 đối tượng trên.
 - HTTP tiến hành hoạt động giao tiếp giữa server và máy khách thông qua một loạt các tin nhắn. 3 kiểu tin nhắn được dùng nhiều nhất trong quá trình hoạt động của HTTP là GET, POST, HEAD.
  - HTTP GET: Loại tin nhắn chỉ bao gồm một đường dẫn gửi đến server. Nó thường chỉ tiếp nhận dữ liệu mà gần như không có những tác dụng khác. Máy chủ sẽ xử lý dữ liệu của URL và gửi phản hồi về cho trình duyệt. Thao tác này được sử dụng khi Client cần lấy toàn bộ nội dung URL.
