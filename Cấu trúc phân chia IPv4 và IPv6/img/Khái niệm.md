@@ -31,4 +31,6 @@
 - IPv6 có cấu trúc gồm 128 bit, và phân thành 8 nhóm. Mỗi nhóm gồm 16 bit, giữa các nhóm có sự phân chia bởi dấu “:”.
 
 
+
+
  
