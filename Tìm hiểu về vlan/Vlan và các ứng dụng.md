@@ -8,7 +8,7 @@ VLAN (Virtual Local Area Network) là một mạng tùy chỉnh, được tạo 
  + Hầu hết các mạng đều có nhiều hơn là chỉ 1 switch trong mạng. Cách đơn giản nhất là gán một port trên mỗi switch của vlan và chạy một cable giữa chúng.
  - 1.3 Ứng dụng của vlan:
 
- <img src="img/1.PNG">
+  <img src="img/1.PNG">
   
   + Đối với những mạng Lan có quy mô lớn, khoảng 200 thiết bị trở lên, thì việc sử dụng mạng Vlan đem lại lớn ích lớn.
   + Lý tưởng cho những mạng có lưu lượng truy cập cao
