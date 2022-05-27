@@ -20,7 +20,8 @@
 - Giống nhau : đều là giao thức mạng TCP/IP đều kết nối các máy với nhau và có thể gửi dữ liệu cho nhau 
 - Khác nhau :
 
-- <img src="img/3.PNG">
+<img src="img/3.PNG">
+- Nên sử dụng giao thức nào : điều này phụ thuộc vào những gì một ứng dụng cần , các ứng dụng muốn sửa lỗi và phát triển hơn thì sử dụng TCP nhưng 1 số ứng dụng cần tốc độ giảm chi phí thì sử dụng UDP.
 
 
 
