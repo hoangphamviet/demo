@@ -24,5 +24,11 @@
 224.0.0.0 -> 239.255.255.255
 -    Dùng làm địa chỉ multicast.
 - Lớp E : từ 240.0.0.0 trở đi được dùng mục đích dự phòng.
+## II. IPv6
+## 2.1 Khái niệm 
+- IPv6 là một phiên bản của giao thức liên mạng (IP) nhằm mục đích nâng cấp giao thức liên mạng phiên bản 4 (IPv4) hiện đang truyền dẫn cho hầu hết lưu lượng truy cập Internet nhưng đã hết địa chỉ.
+- Cấu trúc :
+- IPv6 có cấu trúc gồm 128 bit, và phân thành 8 nhóm. Mỗi nhóm gồm 16 bit, giữa các nhóm có sự phân chia bởi dấu “:”.
+
 
  
