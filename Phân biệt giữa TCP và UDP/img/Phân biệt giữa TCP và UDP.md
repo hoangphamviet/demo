@@ -5,4 +5,4 @@
 ## 1.2 Cơ chế hoạt động
 - TCP hoạt động theo tiến trình bắt tay 3 bước :
 
-<img src="image/1.PNG">
+- <img src="image/1.PNG">
