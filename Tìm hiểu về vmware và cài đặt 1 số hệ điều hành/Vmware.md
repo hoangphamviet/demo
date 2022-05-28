@@ -37,5 +37,27 @@
 - Kiểm tra phiên bản của hệ điều hành 
 - <img src="img/16.PNG">
 - 2 windows server 2012
+- Bước 1 : Khởi động vmware
+- Bước 2 : Tạo 1 máy ảo 
+- <img src="img/3.PNG">
+- Bước 3 : Chọn đường dẫn đến file iso win 2012
+- <img src="img/17.PNG">
+- Bước 4 : Đặt tên cho máy ảo và chọn nơi lưu
+- <img src="img/18.PNG">
+- Bước 5 : Chọn kích thước ổ đĩa cho máy ảo
+- <img src="img/19.PNG">
+- Bước 6 : Chọn cấu hình cho các phần cứng
+- <img src="img/20.PNG">
+- Bước 7 : Lựa chọn ngôn ngữ
+- <img src="img/21.PNG">
+- Bước 8 : Lựa chọn phiên bản
+- <img src="img/23.PNG">
+- Bước 9 : chờ máy cài đặt
+- <img src="img/24.PNG">
+- Bước 10 : cài đặt mật khẩu
+- <img src="img/25.PNG">
+- Bước 11 : giao diện khi cài đặt hoàn tất
+- <img src="img/26.PNG">
+
 
 
