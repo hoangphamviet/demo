@@ -50,6 +50,16 @@
 
 # 12. cal: xem lịch hệ thống.
  <img src="img/14.PNG">
+
+# 13. free -m : Kiểm tra dung lượng RAM còn trống
+ <img src="img/15.PNG">
+
+# 14. df -h : Hiển thị thông tin những file hệ thống, nơi file được lưu hoặc tất cả những file mặc định. Lệnh này có thể xem được dung lượng ổ cứng đã sử dụng và còn trống.
+ <img src="img/16.PNG">
+ 
+
+
+
  
 
 
