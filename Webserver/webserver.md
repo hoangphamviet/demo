@@ -1,4 +1,5 @@
 # Webserver 
+## I Cài đặt web server Apache trên centos
 ## 1 Cập nhập phiên bản mới nhất:
  + sudo yum update
 ## 2 Cài đặt apache bằng câu lệnh:
@@ -37,3 +38,29 @@ sudo nano /etc/httpd/sites-available/vd.com.conf
  
  - Truy cập 
 <img src="img/8.PNG">
+
+## II Cài đặt web server trên windows server
+ + Cài đặt IIS
+ - Ở Server Manger , chọn Add Roles
+<img src="img/9.PNG">
+
+- Ấn next đến mục Server Roles rồi tích chọn mục Web Server(ISS)
+- Chọn add features,rồi chọn next
+
+<img src="img/10.PNG">
+<img src="img/11.PNG">
+
+- Chọn next rồi chọn install
+<img src="img/12.PNG">
+
+- mở notepad chạy dưới quyền admin
+- rồi lưu  vào thư mục C:/interput/wwwroot với tên index.html
+
+<img src="img/13.PNG">
+
+- Kiểm tra bằng cách vào trình duyệt của máy gõ 127.0.0.1 hoặc localhost.
+
+<img src="img/14.PNG">
+
+
+
