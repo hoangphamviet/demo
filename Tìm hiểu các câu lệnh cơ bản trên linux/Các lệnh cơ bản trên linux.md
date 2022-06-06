@@ -46,6 +46,17 @@
 + TTY : thông tin terminal mà người dùng đăng nhập
 + TIME : lượng CPU tình bằng phút giây mà tiến trình đó chạy
 + CMD : câu lệnh để thực hiện process đó
+- cat /proc/cpuinfo: kiểm tra thông tin CPU
++ <img src="img/15.PNG">
+- cat /proc/meminfo: kiểm tra thông tin về RAM đang sử dụng
++ <img src="img/16.PNG">
+- free -m: kiểm tra dung lượng RAM còn trống
++ <img src="img/17.PNG">
+- df: kiểm tra dung lượng đĩa cứng,các phân vùng ổ đĩa
++ <img src="img/19.PNG">
+- du -sh: kiểm tra dung lượng thư mục hiện tại
++ <img src="img/18.PNG">
+
 # IV các lệnh về quản lý user 
 - useradd : tạo một người dùng mới
 - passwd : cập nhập mật khẩu với user vừa tạo
@@ -65,6 +76,20 @@
 - groupdel : xóa nhóm người dùng
 -gpasswd : thay đổi mật khẩu cho người dùng
 
+## V Lệnh giải nén và nén
+- Các option dùng với lệnh tar
++ -c: tạo file a.tar
++ -x: giải nén file a.tar
++ -v: hiển thị quá trình giải nén và nén dữ liệu ra màn hình
++ -f: chỉ định nén thành file
++ -t: xem dữ liệu trong file nén
++ -j :tạo file nén với bzip2 file.tar.bz2
++ -z: tạo file nén với gzip  file.tar.gz
++ -r: ghđm một file và thư mục và file nén đã tồn tại
++ --willcards : tìm và xuất file bất kỳ trong file nén
+- Tạo file nén 
++  tar -cvf filename.tar file1 file2 folder1 folder2
+(filename là file nén tar được tạo ra file , folder được nén vào file nén tar)
 
 
 
