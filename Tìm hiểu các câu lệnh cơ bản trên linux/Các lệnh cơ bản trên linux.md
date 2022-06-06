@@ -91,8 +91,14 @@
 +  tar -cvf filename.tar file1 file2 folder1 folder2
 (filename là file nén tar được tạo ra file , folder được nén vào file nén tar)
 
-
-
+- giải nén file
+ tar -xvf filename.tar
+- xem nội dung file
++ tar -tvf filename.tar
+- thêm mới, cập nhập nội dung vào file lưu trữ
++  tar -rvf filename.tar add_file1 add_file2
+- xóa dữ liệu file
++ tar -f filename.tar --delete file1 file2
 
 
 
