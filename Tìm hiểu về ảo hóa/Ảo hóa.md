@@ -43,3 +43,4 @@ Nhiệm vụ là chia tài nguyên cấp cho các máy ảo.
  - Ảo hóa ứng dụng
  + Là trừu tượng hóa lớp ứng dụng khỏi hệ điều hành. Bằng cách này,ứng dụng có thể chạy ở dạng đóng gói mà không bị phụ thuộc vào hệ điều hành bên dưới. Điều này có thể cho phép 1 ứng dụng windows chạt trên linux và ngược lại , ngoài việc tăng thêm mức dộ cô lập.
  
+
