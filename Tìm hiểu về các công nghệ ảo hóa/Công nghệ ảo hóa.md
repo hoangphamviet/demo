@@ -91,7 +91,7 @@
   + Compute: quản lý và cung cấp máy ảo cho phép người điều khiển bằng lệnh.
   + Glance : quản lý các image ảo.
   + Object Storage: quản lý các kho lưu trữ ảo chứa các thông tin, dữ liệu.
-  +  Identity Server: quản lý chương trình xác thực dành cho user và projects.
+  + Identity Server: quản lý chương trình xác thực dành cho user và projects.
   + Open Network: quản lý network cho các máy ảo.
   + Open dashboard: cung cấp giao diện đồ họa cho người dùng. 
 
