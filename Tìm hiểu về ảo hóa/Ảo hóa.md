@@ -29,7 +29,7 @@ Nhiệm vụ là chia tài nguyên cấp cho các máy ảo.
  + Thông thường , mỗi máy ảo chỉ sử dụng 1 file VMDK (file này có thể được chia nhỏ tùy theo cách cài đặt) để lưu lại toàn bộ dữ liệu trong máy ảo và 1 số file nhở khác để lưu lại cấu hình máy ảo. Do đó , nếu 1 trong những tập kia bị lỗi hoặc bị mất mà chưa được backup thì có thể xem như máy ảo bị hư không thể phục hồi
  + Ngoài ra nếu máy chủ có cấu hình phần cứng thấp nhưng lại có 1 máy ảo sử dụng quá nhiều tài nguyên hoặc chạy quá nhiều máy ảo sẽ làm chậm toàn bộ hệ thống bao gồm các máy ảo và các ứng dụng chạy trên máy ảo. Đồng thời 1 hoặc 1 vài máy chủ phải đảm nhận nhiều máy ảo chạt trên nó nên khi máy chủ gặp trục trặc thì các máy ảo cũng gặp sự cố theo
  + Ở góc độ bảo mật , nếu hacker nắm quyền điều khiển 1 máy chủ vật lý thì hacker có thể kiểm soát tất cả các máy ảo trong nó.
- # II . Các mức độ ảo hóa
+ # II . Các loại ảo hóa
  - Ảo hóa mạng 
  + Là phương pháp kết hợp các tài nguyên có sẵn trong mạng bằng cách chia băng thông khả dụng thành các kênh, mỗi kênh độc lập với các kênh khác và có thể gán hoặc chỉ định lại cho 1 máy chủ hoặc thiết bị cụ thể trong thời giản thực.
  - Ảo hóa bộ nhớ
@@ -42,5 +42,5 @@ Nhiệm vụ là chia tài nguyên cấp cho các máy ảo.
  + Là ảo hóa tải máy trạm thay vì máy chủ. Điều này cho phép người dùng truy cập máy tính để bản từ xa, thường sử dụng 1 thin client  tại bàn làm việc. Vì máy  trạm về cơ bản đang chạy trong 1 máy chủ trung tâm dữ liệu ,nên việc truy cập vào nó có thể an toàn hơn và di động hơn.
  - Ảo hóa ứng dụng
  + Là trừu tượng hóa lớp ứng dụng khỏi hệ điều hành. Bằng cách này,ứng dụng có thể chạy ở dạng đóng gói mà không bị phụ thuộc vào hệ điều hành bên dưới. Điều này có thể cho phép 1 ứng dụng windows chạt trên linux và ngược lại , ngoài việc tăng thêm mức dộ cô lập.
- 
+
 
