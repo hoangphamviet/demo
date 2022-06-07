@@ -17,3 +17,6 @@
 - Authoritative Nameserver
 + Khi DNS resolver tìm thấy Authoritative Nameserver , đó là lúc mà việc phần giải tên miền diễn ra.
 +  Authoritative Name Server có chứa thông tin cho biết tên miền đang gắn với địa chỉ nào. Nó sẽ cung cấp cho Recursive Resolver địa chỉ IP cần thiết tìm thấy trong danh mục những bản ghi của nó.
+# II DNS record là gì ?
+- DNS record là bản ghi nằm trong DNS servers cung cấp thông tin về cơ sở dữ liệu DNS, cho biết các tên miền, địa chỉ IP gắn với tên miền và cách xử lý các yêu cầu với tên miền đó …
+ 
