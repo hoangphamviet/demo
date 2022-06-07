@@ -61,7 +61,7 @@
  + VMware server cài đặt và chạy như một ứng dụng on top của hệ điều hành windows hoặc linux. Virtualiation layer sẽ phần vùng máy chủ vật lý sao cho nhiều máy ảo có thể chạy đồng thời trên một máy chủ đơn.
  + Tài nguyên máy tính của máy chủ vật lý là một nhóm tài nguyên thống nhất có thể được phân bổ cho virtual machines theo các được kiểm soát.
  + VMware Server tách riêng từng máy ảo khỏi máy chủ của nó và các máy ảo khác, để máy này không bị ảnh hưởng nếu có máy khác bị treo. Dữ liệu không bị rò ri trên máy ảo và ứng dụng chỉ có thể giao tiếp thông qua các kết nối mạng được cấu hình.  VMware Server đóng gói môi trường máy ảo như một tập hợp các tệp, giúp dễ sao lưu, di chuyển và sao chép.
- - # Tính năng:
+ - 3. Tính năng:
  + Chạy trên mọi phần cứng x86 tiêu chuẩn.
  + Hỗ trợ 64-bit guset operating systems, bao gồm windows, linux, và solaris.
  + Hỗ trợ VMware VirtualCenter để quản lý hiệu quả cơ sở hạ tầng từ bảng điều khiển quản lý trung tâm.
@@ -73,7 +73,9 @@
  + Hỗ trợ cho bất kỳ định dạng máy ảo VMware hoặc Microsoft nào và Symantec LiveState Recovery images.
  + Nâng cấp dễ dàng lên vmware
  + Giám sát và quản lý máy ảo với 1 giao diện điều khiển từ xa trực quan, thân thiện với người dùng.
- - 3. Openstack
+
+ # - III Openstack
+
  - 1. Khái niệm
  + Openstack là nền tảng mã nguồn mở miễn phí được phát triển trên nền tảng công nghệ điện toán đám mây. Thông qua nền tảng điện toán đám mây, các máy ảo và các tài nguyên khác cung cấp cho người dùng dưới dạng Infrastructure-as-a-Service (IaaS).
  - 2. các thành phần
