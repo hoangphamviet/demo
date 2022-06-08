@@ -18,5 +18,18 @@
 + Khi DNS resolver tìm thấy Authoritative Nameserver , đó là lúc mà việc phần giải tên miền diễn ra.
 +  Authoritative Name Server có chứa thông tin cho biết tên miền đang gắn với địa chỉ nào. Nó sẽ cung cấp cho Recursive Resolver địa chỉ IP cần thiết tìm thấy trong danh mục những bản ghi của nó.
 # II DNS record là gì ?
-- DNS record là bản ghi nằm trong DNS servers cung cấp thông tin về cơ sở dữ liệu DNS, cho biết các tên miền, địa chỉ IP gắn với tên miền và cách xử lý các yêu cầu với tên miền đó …
- 
+- 1. DNS record là bản ghi nằm trong DNS servers cung cấp thông tin về cơ sở dữ liệu DNS, cho biết các tên miền, địa chỉ IP gắn với tên miền và cách xử lý các yêu cầu với tên miền đó …
+- 2. Thông tin trong mỗi bản ghi DNS ?
+- Mỗi bản ghi DNS chứa 4 trường chính :
++ Type : Loại bản ghi DNS xác định phần domain mà mỗi bản ghi sẽ thay đổi. Các loại bản ghi quan trọng nhất để giúp bạn thiết lập và vận hành được đề cập bên dưới.
++ Name : Trường này cho phép thêm tiền tố vào tên miền chính . Nếu đang thêm bản ghi cho một domain phụ, vd: shop.example.com,  sẽ nhập "shop" vào trường này.
++ Data : Trường dữ liệu chứa thông tin khác nhau tùy thuộc vòa loại bản ghi đang tạo.
++ TTL (Time to Live) : là thời gian tính bằng giây để mọi thay đổi đối với bản ghi DNS có hiệu lực. Với TTL là 3600 = 1 giờ, tất cả thay đổi đối với bản ghi này sẽ cập nhập giá trị mới, trường hợp nếu sau 1 giờ các máy chủ phân giải tên miền không còn thấy bản ghi này nữa thì chính thức nó bị xóa.
+- 3. Các loại bản ghi
+ - A record
+ + A được hiểu là "Adress", và đây là loại record phổ biến nhất, được dùng để trỏ 1 địa chỉ IP đến 1 tên miền.
++ A record chỉ dùng cho ipv4, còn với ipv6 phải dùng AAAA record.
++ Hầu hết các web chỉ có một bản ghi A, nhưng 1 số trang web sẽ có 1 vài bản ghi A không giống nhau. Điều này có nghĩa là 1 tên miền có thể được trỏ đến nhiều địa chỉ IP khác nhau....
+
+- AAAA record 
++ Tương tự như A record nhưng nó lưu trữ địa chỉ ipv6 của tên miền.
