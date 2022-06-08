@@ -33,3 +33,23 @@
 
 - AAAA record 
 + Tương tự như A record nhưng nó lưu trữ địa chỉ ipv6 của tên miền.
+
+- CNAME record
++  Canonical Name - CNAME record cho phép tên miền có nhiều bí danh khác nhau, khi truy cập các bí danh sẽ cũng về 1 địa chỉ tên miền. Để sử dụng bản ghi CNAME cần khai báo bản ghi A trước.
+
+- MX record 
++ Mail exchange - MX record là record chuyển hướng tới mail.server. MX record cho biết cách gửi mail cho SMTP ( một giao thức tiêu chuẩn cho tất cả emai. )
++ Giống như CNAME record, MX record luôn phải trỏ tới 1 tên miền.
++ khi tạo bản ghi MX , data sẽ chứa 2 trường :Priority và Exchange.
++ priority luôn là 1 con số. Mail sẽ được chuyển đến mục nhập MX được đánh số thấp nhất  thì độ ưu tiên cao nhất. 
++ exchange là máy chủ mà mail sẽ chuyển đến.
+- DKIM record
++ là bản ghi dùng để xác thực người gửi bằng cách mã hóa 1 phần email gửi bằng 1 chuỗi ký tự, xem như là chữ ký.
++ khi email được gửi đi máy chủ mail sẽ kiểm so sánh với thông tin bản ghi đã được cấu hình trong DNS để xác nhận.
+- SPF record
++ cách xác minh xem thư được gửi từ 1 mail server có đến từ 1 domain name xác thực.Nó sẽ tiến hành truy vấn xem địa chỉ IP đó có nằm trong danh sách IP hợp lệ để gửi mail hay không. Nếu không email sẽ chuyển đến hộp spam.
++ khi có email tới hệ thống người nhận sẽ tiến hành xác thực xem địa chỉ gửi có phù hợp không, ip người gửi có nằm trong danh sách ip được cấp phép không, từ đó sẽ quyết định xem chấp nhận hoặc từ chối.
+- DMARC record
++ DMARC là giao thức nâng cấp kết hợp của DKIM và SPF từ đó giúp người dùng có thể cài đặt các chính sách để loại bỏ hoặc đưa nó vào spam từ nguồn mail không có độ tin cậy.
++ DMARC record là những chính sách quan trọng đòi hỏi thực hiện 1 cách chính xác, nhằm mục đích tạo ra 1 bộ lọc hoàn hảo để sàng lọc các email.
+
