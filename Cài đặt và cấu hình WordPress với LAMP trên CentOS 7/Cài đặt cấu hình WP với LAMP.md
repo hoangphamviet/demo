@@ -46,9 +46,10 @@ sudo restorecon -R -v /var/www/hoang.com/log
 - tạo database cho wordpress
 - mysql -u root -p
 - Tạo user và database:  
-+ create database wp;
++ create database demo ;
 + create user 'lmh9x'@'localhost' identified by 'ho@ng1999';
-+ grant all privileges on demo to 'lmh9x'@'localhost';
++ use wp;ussr
++ grant all privileges on demo to 'hoang9x'@'localhost';
 + flush privileges;
 - Bước 3 : Cài đặt PHP
 - yum install php php-mysql php-gd php-pear –y
