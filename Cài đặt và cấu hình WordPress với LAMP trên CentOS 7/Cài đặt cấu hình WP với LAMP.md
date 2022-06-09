@@ -53,7 +53,7 @@ sudo restorecon -R -v /var/www/hoang.com/log
 - yum install php php-mysql php-gd php-pear –y
 - Bước 4 : Cài đặt  wp
 + Truy cập vào thư mục hmtl:
-cd /vả/www/hoang.com/html
+cd /var/www/hoang.com/html
 - tải và giải nén file  cài wordpress
 + wget https://wordpress.org/latest.tar.gz
 + tar xzvf latest.tar.gz
