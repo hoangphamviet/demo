@@ -42,7 +42,7 @@ sudo restorecon -R -v /var/www/hoang.com/log
 + wget http://repo.mysql.com/mysql-community-release-el7-5.noarch.rpm
 + rpm -ivh mysql-community-release-el7-5.noarch.rpm
 + yum install mysql-server
-+ khởi động sqlS
++ systemctl start mysqld
 - tạo database cho wordpress
 - mysql -u root -p
 - Tạo user và database:  
