@@ -25,7 +25,10 @@
 - thêm dòng lệnh vào cuối file:
 + IncludeOptional sites-enabled/*.conf
 - tạo file vhost :
-+ sudo vi /etc/httpd/sites-available/hoang.com.conf
++ sudo nano /etc/httpd/sites-available/hoang.com.conf
+- <img src="img/2.PNG">
+
+
 - các file virtual host đã được tạo thành công. Tiếp theo hãy kích hoạt chúng để Apache biết để phục vụ khách truy cập. Do đó,  cần tạo một liên kết cho virtual host trong directory sites-enabled:
 + sudo ln -s /etc/httpd/sites-available/hoang.com.conf /etc/httpd/sites-enabled/hoang.com.conf
 - Do đã thiết lập một custom log directory nên có thể sẽ có lỗi xảy ra khi khởi động Apache. Nên ta phải cập nhật các chính sách của SELinux để Apache ghi lại và có thể có khả năng bảo mật tốt hơn: 
