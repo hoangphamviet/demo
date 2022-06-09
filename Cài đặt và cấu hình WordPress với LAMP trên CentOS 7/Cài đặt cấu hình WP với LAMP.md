@@ -33,7 +33,7 @@
 + sudo ln -s /etc/httpd/sites-available/hoang.com.conf /etc/httpd/sites-enabled/hoang.com.conf
 - Do đã thiết lập một custom log directory nên có thể sẽ có lỗi xảy ra khi khởi động Apache. Nên ta phải cập nhật các chính sách của SELinux để Apache ghi lại và có thể có khả năng bảo mật tốt hơn: 
 + sudo setsebool -P httpd_unified 1
-- có thể thay đổi loại directory từ directory /var/www/example.com/log sang httpd_log_t. Điều này giúp Apache tạo và kết nối các log lại với nhau:
+- có thể thay đổi loại directory từ directory /var/www/hoang.com/log sang httpd_log_t. Điều này giúp Apache tạo và kết nối các log lại với nhau:
 sudo semanage fcontext -a -t httpd_log_t "/var/www/hoang.com/log(/.*)?"
 - để các thay đổi vẫn giữ nguyên sau mỗi lần khởi động, sử dụng lệnh restorecon:
 sudo restorecon -R -v /var/www/hoang.com/log
@@ -42,6 +42,7 @@ sudo restorecon -R -v /var/www/hoang.com/log
 + wget http://repo.mysql.com/mysql-community-release-el7-5.noarch.rpm
 + rpm -ivh mysql-community-release-el7-5.noarch.rpm
 + yum install mysql-server
++ khởi động sqlS
 - tạo database cho wordpress
 - mysql -u root -p
 - Tạo user và database:  
