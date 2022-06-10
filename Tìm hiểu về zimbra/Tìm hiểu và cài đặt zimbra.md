@@ -98,6 +98,27 @@
  - Thay đổi thiết lập để nâng cao bảo mật cho mật khẩu vd như tăng độ dài tối thiểu của mật khẩu bắt buộc phải có kí tự viết hoa, viết thường số, kí tự đặc biệt, bao nhiêu lâu phải đổi mật khẩu.
 
 <img src="img/26.PNG">
+ 
+ # V tạo chữ ký 
+
+ - Đầu tiên login vào mailbox tại port 8443
+- Vào phần tùy chọn
+<img src="img/27.PNG">
+- chọn chữ ký
+<img src="img/28.PNG">
+- ta sẽ được giao diện như sau:
+<img src="img/29.PNG">
+- điền thông tin cần thiết vào để tạo chữ ký
+<img src="img/30.PNG">
+- Kiểm tra lại 
+<img src="img/31.PNG">
+
+
+
+
+
+
+
 
 
 
