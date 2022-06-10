@@ -44,6 +44,7 @@
 
 - 6. Truy cập thử bằng đường dẫn
 + https://mail.phamviethoang.xyz:7071/
+
 <img src="img/12.PNG">
 
 + Tên đăng nhập là admin, pass tạo ở trên.
@@ -59,20 +60,27 @@
 
 + Điền các thông tin cần thiết
 <img src="img/14.PNG">
+
 + Sau khi điền đầy đủ ta chọn hoàn tất để thêm user
 <img src="img/15.PNG">
 
 - 2. Đăng nhập vào tài khoản vừa tạo
 <img src="img/16.PNG">
+
 <img src="img/17.PNG">
 
 - 3. Gửi mail
 + Chọn vào thư mới
+
 <img src="img/18.PNG">
+
 + Soạn nội dung thư
+
 <img src="img/19.PNG">
+
 + ấn gửi
 <img src="img/20.PNG">
+
 <img src="img/21.PNG">
 
 # IV Thiết lập chính sách mật khẩu 
@@ -84,6 +92,7 @@
 
 - Chọn nâng cao và tìm đến phần mật khẩu
 <img src="img/24.PNG">
+
 <img src="img/25.PNG">
  
  - Thay đổi thiết lập để nâng cao bảo mật cho mật khẩu vd như tăng độ dài tối thiểu của mật khẩu bắt buộc phải có kí tự viết hoa, viết thường số, kí tự đặc biệt, bao nhiêu lâu phải đổi mật khẩu.
