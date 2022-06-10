@@ -85,7 +85,7 @@
 
 # IV Thiết lập chính sách mật khẩu 
 - Lựa chọn cấu hình
-<img src="img/22.PNG">
+<img src="img/22.png">
 
 - Chọn default 
 <img src="img/23.PNG">
