@@ -87,7 +87,7 @@
 <img src="img/25.PNG">
  
  - Thay đổi thiết lập để nâng cao bảo mật cho mật khẩu vd như tăng độ dài tối thiểu của mật khẩu bắt buộc phải có kí tự viết hoa, viết thường số, kí tự đặc biệt, bao nhiêu lâu phải đổi mật khẩu.
- 
+
 <img src="img/26.PNG">
 
 
