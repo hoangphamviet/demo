@@ -72,14 +72,14 @@
 - 3. Gửi mail
 + Chọn vào thư mới
 
-<img src="img/18.PNG">
+<img src="img/18.png">
 
 + Soạn nội dung thư
 
 <img src="img/19.PNG">
 
 + ấn gửi
-<img src="img/20.PNG">
+<img src="img/20.png">
 
 <img src="img/21.PNG">
 
