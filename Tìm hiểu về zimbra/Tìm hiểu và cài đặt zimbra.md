@@ -56,10 +56,10 @@
 + Đăng nhập bằng tài khoản admin tại port: 7071
 + Chọn thêm tài khoản
 
-<img src="img/13.PNG">
+<img src="img/13.png">
 
 + Điền các thông tin cần thiết
-<img src="img/14.PNG">
+<img src="img/14.png">
 
 + Sau khi điền đầy đủ ta chọn hoàn tất để thêm user
 <img src="img/15.PNG">
