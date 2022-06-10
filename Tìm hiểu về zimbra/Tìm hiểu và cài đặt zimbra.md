@@ -88,10 +88,10 @@
 <img src="img/22.png">
 
 - Chọn default 
-<img src="img/23.PNG">
+<img src="img/23.png">
 
 - Chọn nâng cao và tìm đến phần mật khẩu
-<img src="img/24.PNG">
+<img src="img/24.png">
 
 <img src="img/25.PNG">
  
