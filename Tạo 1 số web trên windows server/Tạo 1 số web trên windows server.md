@@ -30,7 +30,7 @@
 
 - click chuột phải chọn add website
 
-<img src="img/9.PNG">
+<img src="img/9.png">
 
 - Điền thông tin
 
