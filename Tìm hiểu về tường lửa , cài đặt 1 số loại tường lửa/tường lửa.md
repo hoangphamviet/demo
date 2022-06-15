@@ -95,6 +95,11 @@ CSF là 1 gói ứng dụng hoạt động trên linux như 1 firewall được 
 + LF_DAEMON = "1" cho phép tính năng Login fail detection
 + LF_CSF = "1" tự động restart csf khi csf bị stop.
 
+- Khởi động lại dịch vụ CSF
++ bây giờ ta sẽ cấu hính lại csf để kích hoạt tính năng của nó, truy cập vào file csf.conf.Ta thay đổi giá trị của testing từ 1 sang 0 nó đồng nghĩa với việc tắt chức năng testing của filewall. Ở chức năng này cứ 1 khoảng thời gian thì filewall sẽ reset lại cấu hình mặc định giúp chúng ta khôi phục lại các cấu hình chuẩn .
++ <img src="img/27.PNG">
++ sau đó ta khởi động lại csf
++ csf -r 
 
 - Một số lệnh CSF
  + csf -s : chạy firewall
@@ -103,18 +108,24 @@ CSF là 1 gói ứng dụng hoạt động trên linux như 1 firewall được 
  + csf -d : cấm 1 ip truy cập
  + csf -df: gỡ 1 ip ra khỏi danh sách chặn.
  - vd chặn 1 địa chỉ ip : 
-<img src="img/2.PNG">
+<img src="img/28.PNG">
 
 + ta thấy ping giữa máy ảo với máy thật vẫn được
 + ta sẽ dùng lệnh csf -d cấm ip 
 + csf -d 172.16.0.48 
++ <img src="img/29.PNG">
+
+
 + sau đó ta kiểm tra lại sẽ thấy không còn ping đến địa chỉ ip đó nữa
-<img src="img/3.PNG">
+<img src="img/30.PNG">
 
 + để bỏ chặn ip ta dùng lệnh csf -df
 + csf -df 172.16.0.48
++ <img src="img/31.PNG">
+
+
 + sau đó ta kiểm tra lại
-<img src="img/4.PNG">
+<img src="img/32.PNG">
 
 
 
