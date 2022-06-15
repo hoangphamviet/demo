@@ -31,20 +31,70 @@ CSF là 1 gói ứng dụng hoạt động trên linux như 1 firewall được 
  
  2. Cài đặt
  - Cài đặt Dependencies
-  + yum -y install wget perl unzip net-tools perl-libwww-perl perl-LWP-Protocol-https perl-GDGraph -y 
+  + yum -y install wget perl unzip net-tools perl-libwww-perl perl-LWP-Protocol-https perl-GDGraph -y
+
+ <img src="img/5.PNG">
+ <img src="img/6.PNG">
+
+
+
 - Tải CSF: tải csf vào thư mục /tmp của server bằng lệnh wget , giải nén file bằng lệnh tar và  install CSF bằng cách chạy script ./install.sh.
 + cd /tmp
+
+ <img src="img/7.PNG">
+
 + wget https://download.configserver.com/csf.tgz
+
+ <img src="img/8.PNG">
+
 + tar -zxvf csf.tgz
+
+ <img src="img/9.PNG">
+
 + cd csf
+
+ <img src="img/10.PNG">
+
 + ./install.sh
+
+ <img src="img/11.PNG">
+
+
 - tắt firewalld trên centos 7
-+ trược khi config , trên centos có 1 ứng dụng tường lửa mặc định là firewalld cần tắt và xóa nói khỏi startup 
++ trước khi config , trên centos có 1 ứng dụng tường lửa mặc định là firewalld cần tắt và xóa nói khỏi startup 
 + systemctl stop firewalld
 + systemctl disable firewalld
++ sau đó ta kiểm tra trạng thái hoạt động bằng lệnh systemctl status firewalld
+
+ <img src="img/12.PNG">
+
 - Cấu hình CSF
-+ để cho phép csf hoạt động ta cần thay đổi giá trị testing thành = 0
-<img src="img/1.PNG">
++ nano /etc/csf/csf.conf
+- 1 số thông số cấu hình trong file csf.conf:
++ <img src="img/15.png">
++ mặc định vừa cài TESTING = "1" với giá trị đó thì Login Fail Detect daemon sẽ không hoạt động, do đó nếu cso sai sót thì server cũng sẽ không chặn ip của bạn.
++ <img src="img/16.png">
++ thời gian chạy cropjob để clear iptables nếu như testing = 1, tính bằng phút
+ + <img src="img/19.png">
+ + AUTO_UPDATES =“1” là cập nhập tự động nếu muốn tắt cập nhập tự động chuyển thành 0.
++ <img src="img/20.png">
++ Mở các cổng cho phép nhận gói tin từ bên ngoài
++ <img src="img/21.png">
++ Mở các cổng cho phép gửi gói tin ra bên ngoài
++ <img src="img/22.png">
++ cho phép người dùng ping đến server, nếu không muốn người dùng pìn ta đổi giá trị 1 về 0
++ <img src="img/23.png">
++ ICMP_IN_RATE = “1/s" thông số này sẽ giới hạn tần số ping đến server là 1/s. Nếu ping nhanh hơn tốc độ này sẽ nhận được "request timeout".
++ <img src="img/24.png">
++ mặc định csf sẽ cấu hình iptables để filter traffic trên toàn bộ các card mạng, ngoại trừ card loopback . Nếu như muốn rules iptables chỉ applied vào card mạng "eth0" thì ta khai báo
++ ETH_DEVICE_SKIP = " "  nếu không muốn rules iptables không applied vào card mạng nào thì khai báo ở đây.
++ <img src="img/25.png">
++ DENY_IP_LIMIT = "200"
++ Giới hạn số lượng ip bị chặn bởi csf( các ip này được lưu trong file /etc/csf/csf.deny). Khi số lương ip bị chặn vượt quá số này, csf sẽ tự bỏ chặn ip cũ nhất (ip ở dòng đầu tiên của file /etc/csf/csf.deny)
++ <img src="img/26.png">
++ LF_DAEMON = "1" cho phép tính năng Login fail detection
++ LF_CSF = "1" tự động restart csf khi csf bị stop.
+
 
 - Một số lệnh CSF
  + csf -s : chạy firewall
