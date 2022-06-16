@@ -28,43 +28,6 @@ nhanh chóng phản hồi với người dùng. Trong thiết kế File Manager,
 - cPanel có nhiều tính năng không cần thiết gây lãng phí tài nguyên.
 - cPanel không đính kèm trong các gói Hosting miễn phí, nếu muốn sử dụng chương trình này thì người dùng phải đầu tư tài chính.
 
-# II Cài đặt 
-### - B1 Cài đặt thư viện
-+ Đầu tiên ta SSH vào VPS
-
-+ yum install perl 
-
-<img src="img/2.PNG">
-
-+ yum install curl 
-
-<img src="img/3.PNG">
-
-### - B2 Tắt SeLinux
-
-+ nano /etc/sysconfig/selinux
-
-<img src="img/4.PNG">
-
-+ ta chuyển SELINUX=enforecing –>disable
-
-<img src="img/5.PNG">
-
-### - B3 Tắt Network Manager
-
-+ systemctl stop NetworkManager.service
-
-+ systemctl disable NetworkManager.service
-
-### - B4 Update hệ thống
-
-+ yum update -y
-
-<img src="img/6.PNG">
-
-### - B5 Cài đặt cPanel
-
-+ cd /home && curl -o latest -L https://securedownloads.cpanel.net/latest && sh latest
 
 
 

@@ -18,30 +18,6 @@
 - Khả năng chỉnh sửa file: DirectAdmin không tương thích với dòng font unicode nên rất khó để sửa khi file sử dụng các ngôn ngữ không phải là tiếng Anh.
 - Cộng đồng người dùng ít: Bạn sẽ khó tìm được các câu trả lời hướng dẫn cho DirectAdmin khi gặp một vấn đề nâng cao, khó khăn nào đó vì không có quá nhiều cộng động sử dụng DirectAdmin.
 - Giao diện khá nâng cao với người dùng: Người dùng mới có thể gặp khó khăn trong việc tìm kiếm tính năng cần sử dụng. Directadmin được phân chia thành nhiều cấp, và nó mất thời gian để xác định vị trí tính năng mình cần.
-# Cài đặt DirectAdmin
-### - B1  Đăng ký giấy phép dùng thử DirectAdmin, ta truy cập vào trang chủ
-
-<img src="img/1.PNG">
-
-### - B2 Ấn vào biểu tượng tài khoản như trong hình
-
-<img src="img/2.PNG">
-
-### - B3 Nếu chưa có tài khoản ta chọn nút đăng ký 
-
-<img src="img/4.PNG">
-
-### - B4 Ta điền thông tin cần thiết để đăng ký, sau đó chọn submit để đăng ký
-
-<img src="img/5.PNG">
-
-### - B5 Sau đó ta nhận thông tin tài khoản mật khẩu về mail
-
-<img src="img/6.PNG">
-
-### - B6 Sau đó ta đăng nhập vào  DirectAdmin
-
-<img src="img/7.PNG">
 
 
 
