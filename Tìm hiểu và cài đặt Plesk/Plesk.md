@@ -107,6 +107,61 @@
 
 
 
+### 3 Tạo thêm các service plan.
+- Ta vào giao diện nhà cung cấp dịch vụ
+
+<img src="img/22.PNG">
+
+- Chọn vào gói dịch vụ
+
+<img src="img/23.PNG">
+
+- Thêm gói dịch vụ
+
+<img src="img/24.PNG">
+
+- Đặt tên cho gói dịch vụ
+
+<img src="img/25.PNG">
+
+- Xác định các tài nguyên được cung cấp cho gói dịch vụ.
+<img src="img/26.PNG">
+<img src="img/27.PNG">
+
+- Dung lượng cho plan
+- Thông báo khi dung lượng đạt đến ngưỡng nào đó
+- Lưu lượng dữ liệu chuyển từ các web. 
+- Thông báo khi dung lượng đạt đến ngưỡng nào đó.
+- Số lượng tên miền chính, tên miền phụ, bí danh.
+- Số lượng hộp thư mail, dung lượng hòm thư , tổng dung lượng lưu trữ của các hộp thư ,...
+- Số lượng tài khoản FTP được sử dụng để truy cập file và các thư mục.
+- Số lượng cơ sở dữ liệu tối đa được tạo.
+- Dung lượng tối đa của MYSQL/ MS SQL
+- Dung lượng tối đa của file database
+- Dung lượng tối đa của file log
+- Thời hạn của plan.
+- Số lượng trang web wp cài đặt và quản lý tối đa, các bản sao lưu, số lượng trang web có chức năng cập nhật thông minh
+- Thu thập dữ liệu của rank tracker
+
+- Ấn đồng ý để tạo plan
+- Ta thấy plan đã được tạo thành công
+
+<img src="img/29.PNG">
+
+### 4 Gán plan cho người dùng.
+
+- Chọn khách hàng, thêm khách hàng
+
+<img src="img/30.PNG">
+
+
+
+
+
+
+
+
+
 
 
 
