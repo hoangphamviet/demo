@@ -151,8 +151,90 @@
 ### 4 Gán plan cho người dùng.
 
 - Chọn khách hàng, thêm khách hàng
-
 <img src="img/30.PNG">
+
+- Điền các thông tin, chọn plan muốn gán vào.
+
+<img src="img/31.PNG">
+<img src="img/32.PNG">
+
+### 5 Một số thao tác với hosting
+
+### 5.1 Quản lý các tập tin, quản lý source code 
+
+<img src="img/33.PNG">
+
+<img src="img/34.PNG">
+
+- Ta có thể thay đổi chỉnh sửa code của trang web
+
+<img src="img/35.PNG">
+
+<img src="img/36.PNG">
+
+### 5.2 Upload source code lên
+
+- Thư mục để tải code lên
+
+<img src="img/37.PNG">
+
+<img src="img/38.PNG">
+
+### 5.3 Cài đặt ứng dụng
+
+- Tại trang quản lý ta chọn ứng dụng
+
+<img src="img/39.PNG">
+
+- ta sẽ cài wp cho trang web
+
+<img src="img/40.PNG">
+
+- xem trước wp sau khi đã cài đặt
+
+<img src="img/41.PNG">
+
+### 5.4 Cơ sở dữ liệu
+
+- Tại giao diện quản lý ta chọn cơ sở dữ liệu
+<img src="img/45.PNG">
+
+-
+<img src="img/42.PNG">
+<img src="img/44.PNG">
+
+### 5.5 Thống kê
+
+<img src="img/46.PNG">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
