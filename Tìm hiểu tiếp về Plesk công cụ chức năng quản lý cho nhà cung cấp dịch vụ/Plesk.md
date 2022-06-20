@@ -40,7 +40,19 @@
 - <img src="img/13.PNG">
 - Thêm các quy tắc
 - <img src="img/12.PNG">
-- vd ta chặn địa chỉ ip trang web vnphimmoi.net
+- <img src="img/16.PNG">
+- Tên đặt tên quy tắc chọn các loại hồ sơ , chọn hồ sơ cho hoặc từ chối, chọn cổng để truy cập , giao thức TCP hoặc UDP, thêm địa chỉ IP .
+### 1.3 Tường lửa cho web 
+
+- <img src="img/17.PNG">
+
+- <img src="img/18.PNG">
+
+- <img src="img/19.PNG">
+
+- tại đây ta chọn hủy quy tắt bảo mật hạn chế với 1 số web .
+- <img src="img/20.PNG">
+
 
 
 
