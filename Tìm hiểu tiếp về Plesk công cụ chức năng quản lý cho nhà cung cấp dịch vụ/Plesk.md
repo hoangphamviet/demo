@@ -52,6 +52,65 @@
 
 - tại đây ta chọn hủy quy tắt bảo mật hạn chế với 1 số web .
 - <img src="img/20.PNG">
+### 1.4 Hạn chế việc tạo ra các vùng phụ
+- <img src="img/23.PNG">
+
+- <img src="img/21.PNG">
+
+- Tại đây, ta tiến hành các cài đặt cho hệ thống vd đặt tên miền ,tính toán dung lượng sử dụng không gian đĩa, lưu lương truy cập,.....
+### 1.5 Tạo thêm tài khoản để quản trị
+- <img src="img/24.PNG">
+
+- <img src="img/25.PNG">
+
+- <img src="img/26.PNG">
+
+### 1.6 Theo dõi các phiên Plesk , phiên FTP , các phiên dịch vụ đầu cuối đang hoạt động,...
+
+- <img src="img/27.PNG">
+- <img src="img/28.PNG">
+- <img src="img/29.PNG">
+- <img src="img/30.PNG">
+
+### 1.7 Thời gian chờ của phiên
+
+- <img src="img/31.PNG">
+- <img src="img/32.PNG">
+
+### 1.8 Quản lý hạn chế truy cập IP
+- Ta có thêm các địa chỉ ip vào danh sách hạn chế
+
+- <img src="img/34.PNG">
+- <img src="img/35.PNG">
+
+- tùy chỉnh các thiết lập cho phù hợp
+
+- <img src="img/37.PNG">
+- <img src="img/36.PNG">
+
+### 1.9 Tên miền bị cấm
+
+- <img src="img/38.PNG">
+
+- Chức năng này cho phép ta có thể quản lý danh sách các tên miền bị cấm.Khi ta bật chức năng này lên , người dùng sẽ không thể tạo các tên miền trong danh sách.
+- <img src="img/39.PNG">
+- Ta có thể thêm tên miền vào danh sách
+
+- <img src="img/40.PNG">
+- <img src="img/41.PNG">
+- tên miền sau khi thêm
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
