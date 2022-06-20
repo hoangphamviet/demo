@@ -98,7 +98,7 @@
 
 - <img src="img/40.PNG">
 - <img src="img/41.PNG">
-- tên miền sau khi thêm
+- tên miền sau khi thêm.
 
 
 
