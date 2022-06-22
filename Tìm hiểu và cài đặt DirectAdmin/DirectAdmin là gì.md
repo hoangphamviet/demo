@@ -115,7 +115,16 @@
 - <img src="img/57.PNG">
 - <img src="img/58.PNG">
 - Tại đây ta có thể sử dụng các chức năng của tường lửa csf , cấu hình,... thực hiện trực tiếp trên giao diện ...
-- Administrator Settings tùy chỉnh thông tin admin
+- Administrator Settings tùy chỉnh thông tin admin, cài đặt quản trị viên: thông báo cho các quản trị viên khi có dịch vụ gặp sự cố,...Cài đặt máy chủ: tên máy chủ, thời gian chờ,...bảo vệ khôi phục mật khẩu bị mất tự động, các danh sách ip bị chặn, xóa ip ra khỏi danh sách, email giới hạn mail hàng ngày có mỗi người dùng,....
+- <img src="img/59.PNG">
+- <img src="img/60.PNG">
+- Licensing / Updates thông tin giấy phép,..
+- <img src="img/61.PNG">
+- Plugin Manager
+- <img src="img/62.PNG">
+
+
+
 
 
 
