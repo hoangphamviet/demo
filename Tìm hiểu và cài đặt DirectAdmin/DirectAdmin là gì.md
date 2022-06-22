@@ -55,9 +55,9 @@
 - <img src="img/22.PNG">
 - Tại chế độ select ta chọn tài khoản muốn suspended, reason chọn lý do và ấn suspend
 
-- <img src="img/23.PNG">
+- <img src="img/23.png">
 - <img src="img/24.PNG">
-- <img src="img/55.png">
+
 
 
 
