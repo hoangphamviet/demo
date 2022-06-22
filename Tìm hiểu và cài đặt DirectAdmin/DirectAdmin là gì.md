@@ -20,6 +20,61 @@
 - Giao diện khá nâng cao với người dùng: Người dùng mới có thể gặp khó khăn trong việc tìm kiếm tính năng cần sử dụng. Directadmin được phân chia thành nhiều cấp, và nó mất thời gian để xác định vị trí tính năng mình cần.
 
 
+# II Tìm hiểu về các chức năng của DirectAdmin
+### Các chức năng của Admin 
+
+- <img src="img/8.PNG">
+
+- Access Level tại cấp độ truy cập ta chọn vào cấp độ Admin
+
+###  1. Server Management
+### 1.1 Create Admin :
+- Tạo thêm tài khoản admin mới
+- <img src="img/9.PNG">
+- Ta sẽ điền các thông tin như tài khoản, mật khẩu , mail  sau đó ấn submit để tạo
+- <img src="img/10.PNG">
+- Sau đó ta thấy tài khoản được tạo thành công
+- <img src="img/11.PNG">
+- Ta có thể xem danh sách tài khoản đã tạo.
+- <img src="img/12.PNG">
+- <img src="img/13.PNG">
+- Ta có thể xem các thông số tài nguyên của tài khoản.
+- <img src="img/14.PNG">
+- Ta xem được các thông tin tài nguyên như : băng thông , dung lượng ổ đĩa, tên miền, tài khoản người dùng,mail,....
+- <img src="img/15.PNG">
+- Chức năng modify ta sẽ cấu hình tài nguyên của tài khoản:
+- <img src="img/16.PNG">
+- <img src="img/17.PNG">
+- Sau khi cấu hình xong ta ấn save để lưu.
+- Xóa tài khoản 
+- <img src="img/18.PNG">
+- Xem tài nguyên , dữ liệu tài khoản đã sử dụng
+- <img src="img/19.PNG">
+- <img src="img/20.PNG">
+- Suspended(cấm) tài khoản
+- <img src="img/22.PNG">
+- Tại chế độ select ta chọn tài khoản muốn suspended , reason chọn lý do và ấn suspend
+- <img src="img/23.PNG">
+- <img src="img/24.PNG">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
