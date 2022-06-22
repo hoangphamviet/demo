@@ -57,7 +57,7 @@
 
 - <img src="img/23.PNG">
 - <img src="img/24.PNG">
-- <img src="img/55.PNG">
+- <img src="img/55.png">
 
 
 
