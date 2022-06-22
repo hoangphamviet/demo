@@ -73,10 +73,8 @@
 - Tạo tài khoản đại lý điền đầy đủ các thông tin tài khoản, email, mật khẩu, domain, chọn gói tài nguyên
 - <img src="img/33.PNG">
 - <img src="img/34.PNG">
-
 ###  2. Admin Tools
 - <img src="img/35.PNG">
-
 - IP Management thêm địa chỉ IP
 - <img src="img/36.PNG">
 - <img src="img/37.PNG">
@@ -87,7 +85,46 @@
 - vd ta thêm bản ghi a 
 - <img src="img/40.PNG">
 - <img src="img/41.PNG">
-- 
+- Move Users between Resellers di chuyển các tài khoản người dùng với các đại lý
+- <img src="img/42.PNG">
+- <img src="img/43.PNG">
+- System Information xem các thông tin hệ thống bao gồm : tổng bộ nhớ, các phiên bản đang được chạy, tốc độ xử lý,....
+- <img src="img/44.PNG">
+- Service Monitor dịch vụ giám sát, các dịch vụ đang được chạy , trạng thái, bộ nhớ sử dụng, ta có thể bật , tắt , khởi động lại các dịch vụ 
+- <img src="img/45.PNG">
+- Log viewer xem các file lỗi các phần mềm , dịch vụ trong hệ thống 
+- <img src="img/46.PNG">
+- File Editor chỉnh sửa trực tiếp các file cấu hình
+- <img src="img/47.PNG">
+- Process Monitor theo dõi các tiến trình.
+- <img src="img/48.PNG">
+###  3. Extra Features
+- <img src="img/49.PNG">
+- Complete Usage Statistics xem thống kế chi tiết băng thông , ổ đĩa sử dụng,...
+- <img src="img/50.PNG">
+- Custom HTTPD Configurations xem và chỉnh sửa file cấu hình vhost 
+- <img src="img/51.PNG">
+- <img src="img/52.PNG">
+- PHP Configuration cấu hình PHP
+- <img src="img/53.PNG">
+- Brute Force Monitor
+ theo dõi các ip đăng nhập vào tài khoản quản trị số lần đăng nhập thất bại.
+- <img src="img/54.PNG">
+- ConfigServer Security & Firewall cấu hình và chức năng sử dụng tường lửa
+- <img src="img/56.PNG">
+- <img src="img/57.PNG">
+- <img src="img/58.PNG">
+- Tại đây ta có thể sử dụng các chức năng của tường lửa csf , cấu hình,... thực hiện trực tiếp trên giao diện ...
+- Administrator Settings tùy chỉnh thông tin admin
+
+
+
+
+
+
+
+
+ 
 
 
 
