@@ -54,9 +54,59 @@
 - Suspended(cấm) tài khoản
 - <img src="img/22.PNG">
 - Tại chế độ select ta chọn tài khoản muốn suspended, reason chọn lý do và ấn suspend
-
 - <img src="img/23.png">
 - <img src="img/24.PNG">
+- Thay đổi mật khẩu 
+- <img src="img/25.PNG">
+- Điền thông tin tài khoản , mật khẩu mới muốn đổi.
+- <img src="img/26.PNG">
+- Quản lý các ticket
+- <img src="img/27.PNG">
+- <img src="img/28.PNG">
+- Quản lý các tài khoản đại lý 
+- <img src="img/29.PNG">
+- Trước muốn tạo tài khoản đại lý ta phải tạo các gói Manage Reseller Packages 
+- <img src="img/30.PNG">
+- Tùy chỉnh cấu hình các gói tài nguyên cho đại lý rồi ta chọn save để lưu lại.
+- <img src="img/31.PNG">
+- <img src="img/32.PNG">
+- Tạo tài khoản đại lý điền đầy đủ các thông tin tài khoản, email, mật khẩu, domain, chọn gói tài nguyên
+- <img src="img/33.PNG">
+- <img src="img/34.PNG">
+
+###  2. Admin Tools
+- <img src="img/35.PNG">
+
+- IP Management thêm địa chỉ IP
+- <img src="img/36.PNG">
+- <img src="img/37.PNG">
+- DNS Administration quản lý các bản ghi
+- <img src="img/38.PNG">
+- Ta thấy được các domain trong server , nhấn vào domain bất kì ta có thể chỉnh sửa được các bản ghi của domain đó.
+- <img src="img/39.PNG">
+- vd ta thêm bản ghi a 
+- <img src="img/40.PNG">
+- <img src="img/41.PNG">
+- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
