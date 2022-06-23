@@ -125,6 +125,88 @@
 
 
 
+# II Reseller Level
+- <img src="img/63.PNG">
+
+## Account Management
+- <img src="img/64.PNG">
+- Add New User ( thêm tài khoản người dùng mới)
+- ta điền thông tin cần thiết rồi chọn submit để tạo tài khoản.
+- <img src="img/65.PNG">
+- <img src="img/66.PNG">
+- <img src="img/67.PNG">
+- List Users : xem danh sách các user
+- Manage Tickets: quản lý các ticket
+
+- <img src="img/68.PNG">
+
+- Add Package : tạo các gói tài nguyên cho người dùng
+- Manage User Packages : quản lý các gói.
+- Edit User Message : chỉnh sửa tin nhắn của người dùng.
+## Reseller Tools
+
+- <img src="img/69.PNG">
+- Change Passwords : thay đổi mật khẩu cho người dùng
+- <img src="img/70.PNG">
+- Reseller Statistics : thống kê ta xem được ổ đĩa , băng thông,domains, subdomains,...
+- <img src="img/71.PNG">
+- IP Management : quản lý ip , ta xem trạng thái , số lượng user
+- <img src="img/72.PNG">
+- Skin Manager: quản lý giao diện ta có thể thay đổi giao diện bất kỳ,
+- <img src="img/73.PNG">
+## Extre Features
+- <img src="img/74.PNG">
+- System Info : xem thông tin hệ thông
+- Nameservers : tên các máy chủ
+- ConfigServer Security & Firewall: tường lửa và cấu hình
+- Message All Users : gửi tin nhắn đến các người dùng
+- <img src="img/75.PNG">
+- Contact Administrator ; chức năng này giúp đại lý trao đổi thông tin với người quản trị 
+- <img src="img/76.PNG">
+
+# Chức năng của user
+- Ta đăng nhập tài khoản user
+- <img src="img/77.PNG">
+- Domain Setup: ta có thể thay đổi các cấu hình domain , thêm, xóa các domain.
+- <img src="img/78.PNG">
+- Ta có thể thay đổi các giá trị của domain như băng thông , lưu lượng ổ đĩa các phiên bản PHP
+- tạo mới 1 tên miền khác, điền thông tin cần thiết
+- <img src="img/80.PNG">
+- <img src="img/81.PNG">
+
+- Change Password : thay đổi mật khẩu
+- Login History : xem các lịch sử đăng nhập
+- DNS Management : quản lý các bản ghi, ta có thể chỉnh sửa xóa hay thêm mới các bản ghi.
+- <img src="img/82.PNG">
+- Support Center : trung tâm hỗ trợ, gửi ticket cho nhà quản trị.
+- <img src="img/83.PNG">
+-  Installed Perl Modules: xem các mô-đun đã cài đặt
+- Site Summary / Statistics / Logs thống kê các logs
+-  FTP Management ; quản lý file ftp
+- Subdomain Management quản lý các sub, tạo các sub
+- <img src="img/84.PNG">
+- <img src="img/84.PNG">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
