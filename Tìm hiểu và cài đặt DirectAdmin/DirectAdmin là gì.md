@@ -182,10 +182,19 @@
 - <img src="img/83.PNG">
 -  Installed Perl Modules: xem các mô-đun đã cài đặt
 - Site Summary / Statistics / Logs thống kê các logs
--  FTP Management ; quản lý file ftp
+-  FTP Management : quản lý file ftp
 - Subdomain Management quản lý các sub, tạo các sub
 - <img src="img/84.PNG">
-- <img src="img/84.PNG">
+- <img src="img/85.PNG">
+- MySql Management : quản lý mysql
+- <img src="img/88.PNG">
+- <img src="img/86.PNG">
+- <img src="img/87.PNG">
+- Sau đó ta đăng nhập vào trang quản trị, tại đây ta có thể thực hiện các lệnh , truy vấn sql ,....
+- <img src="img/89.PNG">
+
+
+
 
 
 
