@@ -182,7 +182,7 @@
 - <img src="img/83.PNG">
 -  Installed Perl Modules: xem các mô-đun đã cài đặt
 - Site Summary / Statistics / Logs thống kê các logs
--  FTP Management : quản lý file ftp
+-  FTP Management : quản lý tài khoản ftp
 - Subdomain Management quản lý các sub, tạo các sub
 - <img src="img/84.PNG">
 - <img src="img/85.PNG">
@@ -192,6 +192,42 @@
 - <img src="img/87.PNG">
 - Sau đó ta đăng nhập vào trang quản trị, tại đây ta có thể thực hiện các lệnh , truy vấn sql ,....
 - <img src="img/89.PNG">
+- Password Protected Directories : mật khẩu bảo vệ thư mục
+- <img src="img/90.PNG">
+- <img src="img/91.PNG">
+- chọn protect để thiết lập mật khẩu, điền các thông tin như lời nhắc, cập nhập người dùng , đặt mật khẩu và nhập lại.
+- <img src="img/92.PNG">
+
+- File Manager: quản lý các file, ta có thể thao tác trực tiếp các file bằng giao diện
+- <img src="img/93.PNG">
+
+### E-mail Management 
+- Quản lý các vấn đề về mail
+- <img src="img/94.PNG">
+
+- E-mail Accounts : quản lý tài khoản mail
+- <img src="img/95.PNG">
+- ta tạo tài khoản mail mới
+- <img src="img/98.PNG">
+- <img src="img/97.PNG">
+- ta vào web mail để kiểm tra dịch vụ, đăng nhập tài khoản vừa tạo
+- <img src="img/99.PNG">
+- <img src="img/100.PNG">
+- <img src="img/101.PNG">
+- Autoresponders: chức năng trả lời tự động
+- <img src="img/102.PNG">
+- <img src="img/103.PNG">
+- SPAM filters: các thiết lập để để chống spam
+
+
+
+
+
+
+
+
+
+
 
 
 
