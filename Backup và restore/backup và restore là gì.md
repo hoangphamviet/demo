@@ -46,6 +46,43 @@
 - <img src="img/15.PNG">
 
 
+# II Backup và restore trên Plesk
+### Backup 
+- Tại giao diện chính ta chọn Tool & Settings 
+- <img src="img/16.PNG">
+- Tại công cụ Tools & Resources ta chọn backup manager 
+- <img src="img/17.PNG">
+- Chọn back up để tiến hành các thao tác back up
+- <img src="img/18.PNG">
+- Chọn các tùy chỉnh phù hợp với yêu cầu vd như ta muốn back up tin nhắn mail hoặc các file , cơ sở dữ liệu
+- mặc định nó lưu trữ tại C:\Program Files (x86)\Plesk\Backup\ sau khi tùy chỉnh xong ta chọn ok
+- <img src="img/19.PNG">
+
+- Sau đó ta sẽ đợi quá tình sao lưu
+- <img src="img/20.PNG">
+- Khi hoàn tất ta có thể tải file back up về máy
+- <img src="img/21.PNG">
+- Tại tùy chọn tiếp hành plesk khuyến nghị sử dụng mật khẩu để mã hóa mk của người dùng . tại vd này ta sẽ không dùng mk tích 
+- <img src="img/23.PNG">
+- Sau khi tải xuống ta kiểm tra file tải về chưa vậy là hoàn tất
+- <img src="img/24.PNG">
+### Restore 
+
+- Chọn trực tiếp vào bản backup ta cần restore.
+- <img src="img/25.PNG">
+- <img src="img/26.PNG">
+- Ta chọn All objects để restore tất cả sau đó chọn restore 
+- <img src="img/27.PNG">
+
+
+
+
+
+
+
+
+
+
 
 
 
