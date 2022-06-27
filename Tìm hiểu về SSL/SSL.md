@@ -22,9 +22,6 @@
 
 # II Cài SSL trên DirectAdmin
 
-### 1 Lấy chứng chỉ 
-- Vào trang web ssls.com để đăng kí một tài khoản
-- Điền đầy đủ các thông tin
 
 
 
