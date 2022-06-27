@@ -20,4 +20,12 @@
 - Wildcard SSL Certificate (Wildcard SSL) Sản phẩm lý tưởng cho các cổng thương mại điện tử. Mỗi e-store là một sub-domain và được chia sẻ trên 1 hay nhiều địa chỉ IP . Khi đó, để triển khai giải pháp bảo mật giao dịch trực tuyến( đặt hàng, thanh toán, đăng ký và đăng nhập tài khoản,...) bằng ssl , ta có thể dùng duy nhất 1 chứng chỉ số wildcard cho tên miền chính của website và tất cả sub-domain.
 
 
+# II Cài SSL trên DirectAdmin
+
+### 1 Lấy chứng chỉ 
+- Vào trang web ssls.com để đăng kí một tài khoản
+- Điền đầy đủ các thông tin
+
+
+
 
