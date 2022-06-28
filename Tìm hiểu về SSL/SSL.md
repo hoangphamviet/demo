@@ -22,6 +22,67 @@
 
 # II Cài SSL trên DirectAdmin
 
+- Ta truy cập vào https://www.ssls.com/ để lấy chứng chỉ ssl.
+- Ta đăng ký tài khoản.
+<img src="img/1.PNG">
+- Ta chọn activate để tiếp tục.
+<img src="img/4.PNG">
+- Ta thêm tên miền 
+<img src="img/5.PNG">
+- Chọn khóa cá nhân tích chọn Use my CSR , ta copy câu lệnh
+<img src="img/7.PNG"> chạy để lấy key
+<img src="img/8.PNG"> 
+
+- Sau khi lấy key ta copy Enter CSR
+<img src="img/9.PNG"> 
+
+- Tại đây ta xác định tên miền bằng bản ghi
+<img src="img/10.PNG"> 
+
+- Ta sẽ tao 1 bản ghi cname cho tên miền theo ảnh
+<img src="img/11.PNG"> 
+<img src="img/12.PNG">
+
+- Ta đợi xác thực và tải SSL xuống để tiến hành cài đặt.
+
+<img src="img/13.PNG"> 
+
+- Tiến hành cài SSL thông qua DirectAdmin , ta đăng nhập và chọn SSL Certificates
+<img src="img/16.PNG"> 
+- Ta chọn Paste a pre-generated certificate and key rồi điền key từ file tải về để cài ssl
+<img src="img/17.PNG"> 
+
+
+- Ở mục  ta điền thông tin ở file vừa tải về và key.
+<img src="img/20.PNG"> 
+
+- Sau đó ta lưu lại và tiến hành kiểm tra.
+<img src="img/21.png"> 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
