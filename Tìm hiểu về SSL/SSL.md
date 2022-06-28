@@ -82,7 +82,7 @@
 - <img src="img/41.png"> 
 - <img src="img/42.png"> 
 - <img src="img/43.png"> 
-- Sau đó ta kiểm tra lại trang web và thành công
+- Sau đó ta kiểm tra lại trang web và thành công.
 - <img src="img/44.png"> 
 
 
