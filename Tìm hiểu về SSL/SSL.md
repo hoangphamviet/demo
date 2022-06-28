@@ -59,6 +59,36 @@
 - Sau đó ta lưu lại và tiến hành kiểm tra.
 <img src="img/21.png"> 
 
+# III Cài SSL trên Plesk
+
+- Ta lấy chứng chỉ SSL như trên
+- Đăng nhập vào plesk tại giao diện người dùng
+- <img src="img/33.png"> 
+- Ta chọn Chứng nhận SSl/TLS để tiến hành cài đặt
+- <img src="img/34.png"> 
+- Chọn quản lý
+- <img src="img/35.png"> 
+- Chọn Thêm chứng nhận SSL/TLS
+- <img src="img/40.png"> 
+- <img src="img/36.png"> 
+- <img src="img/37.png"> 
+- <img src="img/38.png"> 
+- <img src="img/39.png"> 
+-  Thêm thành công sẽ hiển thị thông báo
+
+- <img src="img/28.png"> 
+
+- Sau đó tại giao diện quản trị web ta chọn thiết lập lưu trữ chọn áp dụng và đồng ý
+- <img src="img/41.png"> 
+- <img src="img/42.png"> 
+- <img src="img/43.png"> 
+- Sau đó ta kiểm tra lại trang web và thành công
+- <img src="img/44.png"> 
+
+
+
+
+
 
 
 
