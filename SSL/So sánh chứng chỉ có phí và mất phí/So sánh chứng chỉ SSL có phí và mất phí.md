@@ -1,4 +1,4 @@
-# I So sánh chứng chỉ SSL có phí và mất phí
+# I So sánh chứng chỉ SSL có phí và miễn phí
 
 ##  Chi phí
 - Chứng chỉ có phí phải mất tiền mua còn chứng chỉ miễn phí không mất tiền mua.
