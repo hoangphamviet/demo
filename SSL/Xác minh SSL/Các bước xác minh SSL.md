@@ -8,4 +8,12 @@
 - DNS CNAME-based ( Xác thực qua DNS). Nhà cung cấp sẽ gửi cho quý khách nội dung 1 bản ghi để quý khách xác thực SSL qua hệ thống DNS domain.
 
 ## Các bước xác thực 
-
+ 
+### Xác thực qua email tên miền:
+- Bước 1 : Khách hàng cần đảm bảo email admin@domain.com (với domain.com là tên miền cần cài đặt SSL) có thể nhận email gửi đến. 
+- Bước 2 : Sau đó khách hàng sẽ nhận 1 mail xác thực gửi đến admin@domain.com. Ta sẽ click vào liên kết trong mail và xác nhận.
+- Bước 3 : Sau khi xác thực khách sẽ nhận được các file cài đặt SSL sau khi SSL đã được xác thực.
+### Xác thực qua DNS và upload file
+-  Xác thực DNS ta cần tạo 1 bản ghi dùng để xác thực theo yêu cầu nơi cấp SSL.
+- Xác thực qua upload file:
+ta truy cập vào dịch vụ  SSL tại trang quản lý dịch vụ , ta tìm đến chỗ dowload file để xác thực và tải file xác thực lên.
