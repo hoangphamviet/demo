@@ -23,3 +23,19 @@
 
 <img src="img/8.png"> 
 
+- Sau đó ta điền thông tin cần thiết như hình rồi chọn more settings
+
+<img src="img/10.png"> 
+
+- Chọn sang outgoing rồi tích chọn như hình
+
+<img src="img/11.png"> 
+
+- Chọn sang advanced tùy chỉnh thông số như hình rồi ấn ok
+
+<img src="img/12.png"> 
+
+<img src="img/13.png"> 
+- 
+
+
