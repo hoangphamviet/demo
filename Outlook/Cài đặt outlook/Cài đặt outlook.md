@@ -36,6 +36,13 @@
 <img src="img/12.png"> 
 
 <img src="img/13.PNG"> 
-- 
+
+- Finnish để kết thúc
+
+- Bật outlook trên máy , ấn F9 để đồng bộ mail về, đợi quá trình đồng bộ diễn ra xong là được
+
+<img src="img/14.PNG"> 
+
+
 
 
