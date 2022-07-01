@@ -25,7 +25,7 @@
 
 - Khi quá trình cài đặt kết thúc thành công , ta sẽ thấy thông báo như sau :
 
-- <img src="img/3.png">
+- <img src="img/3.PNG">
 
 ### Bước 3 kiểm tra trạng thái chứng chỉ 
 
