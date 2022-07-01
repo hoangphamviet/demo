@@ -39,6 +39,60 @@
 - Ta thêm dòng sau và lưu lại :  
 - 0 0,12 * * * python -c 'import random; import time; time.sleep(random.random() * 3600)' && certbot renew
 
+- 
 
+- 
+
+
+- 
+
+- 
+
+- 
+
+#  Cài đặt SSL Cài đặt SSL Let's Encrypt trên Nginx
+
+## Ta cài đặt Nginx 
+
+- <img src="img/5.png">
+
+- Ta kiểm tra thấy trang web chưa được cài chứng chỉ SSL
+
+## Tiến hành cài đặt SSL
+
+### Bước 1 Cài đặt Certbot 
+
+- Cài đặt EPEL repository
+
+- yum -y install epel-release
+
+- <img src="img/6.PNG">
+
+- Tiếp theo cài đặt certbot-nginx bằng câu lệnh sau:
+
+- yum -y install certbot-nginx
+
+- <img src="img/7.PNG">
+
+### Bước 2: Cài đặt SSL Let’s Encrypt
+
+- sudo certbot --nginx -d lmhlmh9x.xyz
+
+- <img src="img/8.PNG">
+
+- Thông báo như vậy là đã cài đặt thành công SSL thông qua Certbot.
+
+### Bước 3 : Kiểm tra chứng chỉ
+ - Cách 1 : kiểm tra trình duyệt  
+
+- <img src="img/9.PNG">
+
+### Bước 4 : Cập nhập tự động
+
+- Các bạn chạy câu lệnh sau để mở Cronjob :
+- crontab -e
+
+- Copy nội dung bên dưới paste vào Crontab.Sau đó lưu và đóng Cronjob
+-  59 23 * * * /usr/bin/certbot renew –quiet
 
 
