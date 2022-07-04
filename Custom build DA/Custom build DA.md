@@ -23,7 +23,42 @@ CustomBuild là công cụ quản lý phần mềm của DirectAdmin. Nó chủ 
 
 <img src="img/3.PNG">
 
-### 4 Kiểm tra lại phiên bản đã cài
-<img src="img/4.png">
+
+### 4 Chạy dịch vụ
+- ./build php n
+
+### 5 Chạy lại cấu hình
+
+- ./build rewrite_confs
+
+- <img src="img/5.PNG">
+
+### 6 Thay đổi các phiên bản kiểm tra kết quả 
+
+- Ta vào FileManager » /domains/lmhlmh9x.xyz/public_html tạo file info.php
+
+- <img src="img/6.PNG">
+
+- Sau đó truy cập http://lmhlmh9x.xyz/info.php để xem thông tin 
+
+- <img src="img/7.png">
+- Ta thấy trang web đã chạy php 5.6
+- Ta thay đổi các phiên bản php để kiểm tra tiếp
+
+- <img src="img/8.png">
+- <img src="img/9.png">
+- <img src="img/10.PNG">
+- <img src="img/11.PNG">
+
+
+
+
+
+
+
+
+
+
+
 
 
