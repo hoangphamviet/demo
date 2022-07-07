@@ -9,7 +9,7 @@
 - Ta thêm chính sách mật khẩu vd như 
 - Tối thiểu phải có 8 kí tự , 1 kí tự viết hoa, 1 kí tự thường, 1 kí tự số
 - <img src="img/3.png">
-- Sau đó tao lưu lại , như vậy đã hoàn tất.
+- Sau đó ta lưu lại , như vậy đã hoàn tất.
 - <img src="img/4.png">
 
 
