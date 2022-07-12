@@ -6,7 +6,7 @@
 - Tại phần menu bên trái ta chọn tùy chọn nâng cao
 - <img src="img/3.png">
 - Tại đây ta sẽ thay đổi các tùy chỉnh cho phù hợp với nhu cầu của tài khoản
-- <img src="img/4.png">
+- <img src="img/4.PNG">
 - Giới hạn địa chỉ chuyển tiếp theo người dùng trong phạm vi (ký tự)
 - Số lượng tối đa các địa chỉ chuyển tiếp theo người dùng
 - Hạn mức tài khoản (MB) (0 là không có giới hạn)
