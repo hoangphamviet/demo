@@ -38,9 +38,10 @@
 - Chọn tiếp next
 - <img src="img/9.PNG"> 
 - Ta chọn hoàn tất quá trình cấu hình và cài đặt 
-- Kiểm tra ta đăng nhập vào kerio bằng tài khoản mật khẩu đã tạo trong quá trình cấu hình 
+- Kiểm tra ta đăng nhập vào kerio bằng tài khoản mật khẩu đã tạo trong quá trình cấu hình , kiểm tra thấy tất cả các dịch vụ đã được chạy
 - <img src="img/10.PNG"> 
-- <img src="img/11.PNG"> 
+- <img src="img/11.PNG">
+- <img src="img/16.PNG">
 - Ta thấy giao diện như trong hình là đã cài đặt thành công.
 
 
