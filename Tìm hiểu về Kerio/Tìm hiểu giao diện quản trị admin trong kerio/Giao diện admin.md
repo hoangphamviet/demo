@@ -137,7 +137,7 @@
 - PLAIN
 - Nếu mật khẩu của người dùng được lưu ở định dạng SHA, chọn LOGIN hoặc PLAIN. Nếu chọn nhiều phương pháp, Kerio sẽ thực hiện phương pháp khả dụng đầu tiên
 
-- <img src="img/24.PNG">
+- <img src="img/24.png">
 
 ## Administration Settings
 - Trong Kerio-connect, có thể kích hoạt một tài khoản quản trị viên đặc biệt. Tài khoản này được tích hợp sẵn để truy cập giao diện quản trị.
@@ -145,7 +145,7 @@
 - Đi tới phần Configuration -> Administration Settings
 - Chọn Enable built-in administrator account
 - Nhập password cho tài khoản. Tên tài khoản mặc định là Admin và không thể thay đổi
-- <img src="img/25.PNG">
+- <img src="img/25.png">
 
 
 
