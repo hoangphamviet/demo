@@ -121,8 +121,23 @@
 - Gửi lệnh ETRN
 - Bấm ok
 - <img src="img/22.PNG">
-- 
 
+- <img src="img/23.PNG">
+
+##  SSL Certificates
+- SSL hỗ trợ việc cài đặt chứng chỉ SSL miễn phí Let's Encrypt cho mail.domain. Tại đây ta có thể tạo mới và xóa chứng chỉ.
+## Advanced Options
+- Tại đây ta có thể thiết lập các tùy chọn nâng cao hơn phù hợp với nhu cầu 
+ ## Security
+-  Kerio-connect cung cấp chức năng yêu cầu xác thực Require secure authentication. Người dùng phải xác thực an toàn khi họ truy cập Kerio-connect
+- Có thể chọn bất cứ phương thức xác thực nào sau đây
+- CRAM-MD5: Xác thực mật khẩu bằng cách sử dụng thông báo MD5
+- DIGEST-MD5: Xác thực mật khẩu sử dụng thông báo MD5
+- LOGIN
+- PLAIN
+- Nếu mật khẩu của người dùng được lưu ở định dạng SHA, chọn LOGIN hoặc PLAIN. Nếu chọn nhiều phương pháp, Kerio sẽ thực hiện phương pháp khả dụng đầu tiên
+
+- <img src="img/24.PNG">
 
 
 
