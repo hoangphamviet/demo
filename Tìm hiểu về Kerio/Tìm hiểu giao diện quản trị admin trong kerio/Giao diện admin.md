@@ -85,6 +85,44 @@
 - Nhập mô ta cho bản sao lưu trong Description
 - Chọn thời gian và loại sao lưu và nhấp vào ok
 - <img src="img/16.PNG">
+- Ta có thể tùy chỉnh kích thước bản lưu tối đa
+- Ta chọn chuột phải vào bản backup muốn thay đổi sau đó chọn advanced
+- <img src="img/17.PNG">
+- <img src="img/18.PNG">
+- Target backup directory, chỉ định thư mục nơi lưu trữ tất cả các bản sao lưu
+- Notification, nhập địa chỉ email để nhận thông báo về các bản sao lưu
+. Cuối cùng nhấn vào Apply để lưu các tùy chọn
+- <img src="img/19.PNG">
+
+- Khôi phục dữ liệu Current status nhấp vào Start Now để tạo một bản sao lưu đầy đủ (chọn đường dẫn lưu bản sao lưu /mnt/backup)
+- <img src="img/19.PNG">
+- <img src="img/20.PNG">
+- Thông báo như trong hình là thành công
+- Tiếp theo đó ta restore
+-  Stop Kerio Connect
+- Vào thư mục cài đặt Kerio Connect 
+- cd /opt/kerio/mailserver
+- Chạy lệnh
+- ./kmsrecover /opt/kerio/mailserver/store/
+- <img src="img/21.PNG">
+## Delivery
+- Trong Kerio-connect, ta có thể lên lịch để
+- Tải xuống thư từ máy chủ POP3 từ xa
+- Nhận thông báo bằng lệnh ETRN đến các máy chủ đã xác định
+- Gửi tin nhắn từ hàng đợi tin nhắn
+- Cấu hình Scheduling, để add scheduling ta làm như sau:
+- Trong giao diện quản trị chọn Configuration -> Delivery -> Scheduling
+- Chọn Add
+- Chỉ định Time condition
+- Để giới hạn việc lập lịch trong một phạm vi thời gian cụ thể, hãy chọn Valid only at time và chọn một phạm vi thời gian
+- Chỉ định Action. Có thể lên lịch cho bất kỳ hoạt động nào sau đây
+- Gửi tin nhắn từ hàng đợi tin nhắn
+- Tải xuống tin nhắn qua POP3
+- Gửi lệnh ETRN
+- Bấm ok
+- <img src="img/22.PNG">
+- 
+
 
 
 
