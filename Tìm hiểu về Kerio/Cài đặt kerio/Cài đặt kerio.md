@@ -18,7 +18,7 @@
 - <img src="img/15.PNG"> 
 - Sau khi cài đặt thành công ta vào địa chỉ máy chủ với cổng 4040 để cấu hình  https://103.28.38.97:4040
 - Sau khi truy cập ta được giao diện như sau :
-- <img src="img/1.PNG"> 
+- <img src="img/1.png"> 
 - Tại ta có thể tùy chỉnh ngôn ngữ mặc định là tiếng anh sau đó chọn next
 - <img src="img/2.PNG"> 
 - Ta chọn accept để đồng ý với các điều khoản có kerio sau đó chọn next
