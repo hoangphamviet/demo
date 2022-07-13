@@ -87,12 +87,12 @@
 - <img src="img/16.PNG">
 - Ta có thể tùy chỉnh kích thước bản lưu tối đa
 - Ta chọn chuột phải vào bản backup muốn thay đổi sau đó chọn advanced
-- <img src="img/17.PNG">
-- <img src="img/18.PNG">
+- <img src="img/17.png">
+- <img src="img/18.png">
 - Target backup directory, chỉ định thư mục nơi lưu trữ tất cả các bản sao lưu
 - Notification, nhập địa chỉ email để nhận thông báo về các bản sao lưu
 . Cuối cùng nhấn vào Apply để lưu các tùy chọn
-- <img src="img/19.PNG">
+- <img src="img/19.png">
 
 - Khôi phục dữ liệu Current status nhấp vào Start Now để tạo một bản sao lưu đầy đủ (chọn đường dẫn lưu bản sao lưu /mnt/backup)
 - <img src="img/19.PNG">
