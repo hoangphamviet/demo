@@ -10,7 +10,9 @@
 - <img src="img/14.png"> 
 - Đầu tiên ta cài đặt thời gian cho hệ thống 
 - ln -sf /usr/share/zoneinfo/Asia/Ho_Chi_Minh /etc/localtime
-- Ta kiểm tra và tắt các dịch vụ mail thường được cài sẵn trên centos như sendmail và postfix
+- Ta kiểm tra và tắt các dịch vụ mail thường được cài sẵn trên centos như sendmail và postfix , httpd 
+- systemctl stop httpd.service
+- systemctl disable httpd.service
 - /etc/init.d/sendmail stop && /sbin/chkconfig sendmail off
 - /etc/init.d/postfix stop && /sbin/chkconfig postfix off
 - Sau đó ta cài đặt kerio-connect
