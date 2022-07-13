@@ -51,7 +51,7 @@
 
 ## Services
 
-<img src="img/12.PNG">
+<img src="img/12.png">
 
 - Ta thấy được các trạng thái dịch vụ của hệ thống , các cổng ,....
 ##  Domains
