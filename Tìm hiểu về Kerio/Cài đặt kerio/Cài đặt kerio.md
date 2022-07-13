@@ -7,7 +7,7 @@
 - <img src="img/13.PNG"> 
 ## Cài đặt 
 - Sau khi tải file cài đặt ta chuyển file đó lên máy chủ muốn cài đặt bằng mobaxterm
-- <img src="img/14.PNG"> 
+- <img src="img/14.png"> 
 - Đầu tiên ta cài đặt thời gian cho hệ thống 
 - ln -sf /usr/share/zoneinfo/Asia/Ho_Chi_Minh /etc/localtime
 - Ta kiểm tra và tắt các dịch vụ mail thường được cài sẵn trên centos như sendmail và postfix
