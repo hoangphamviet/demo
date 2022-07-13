@@ -70,6 +70,23 @@
 - Để cho phép người dùng đã xác thực gửi thư đi, chọn User authenticated through SMTP for outgoing mail
 -Để cho phép người dùng đã xác thực trước đó qua POP3 gửi thư đi từ cùng một địa chỉ IP, chọn Users previously authenticated through POP3 from the same IP address
 - Nhấp vào Apply để lưu thiết lập
+## Instant Messaging
+
+- Dịch vụ trò chuyện tức thời trên Kerio-connect
+
+<img src="img/15.PNG">
+
+##  Archiving and Backup
+- Kerio-connect hỗ trợ Full Backup và nó cũng hỗ trợ Differential Backup, lưu các tệp đã được thêm vào hoặc thay đổi kể từ lần sao lưu đầy đủ nhất
+- Ta có thể lên lịch sao lưu như sau:
+- Trong giao diện quản trị, vào Configuration -> Archiving and Backup -> Backup
+- Chọn Enable message store and configuration recovery backup
+- Chọn Add
+- Nhập mô ta cho bản sao lưu trong Description
+- Chọn thời gian và loại sao lưu và nhấp vào ok
+- <img src="img/16.PNG">
+
+
 
 
 
