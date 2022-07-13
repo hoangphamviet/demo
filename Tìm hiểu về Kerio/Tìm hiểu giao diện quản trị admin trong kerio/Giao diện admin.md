@@ -59,7 +59,7 @@
 - Hiển thị các domain đã được tạo. 
 <img src="img/13.png">
 - Tại đây có thể tạo, sửa, xóa domain và thiết lập các tùy chọn cho domain đó bằng cách click chuột phải rồi tùy chọn các tùy chỉnh
-<img src="img/14.PNG">
+<img src="img/14.png">
  
  ## SMTP server
 - Máy chủ SMTP xác định ai có thể gửi thư đi qua Kerio Connect và họ có thể thực hiện những hành động nào.
