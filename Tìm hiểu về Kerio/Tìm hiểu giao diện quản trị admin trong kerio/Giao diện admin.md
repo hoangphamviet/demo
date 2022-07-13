@@ -29,23 +29,23 @@
 
 - Hiển thị các thông số của hệ thống 
 
-<img src="img/6.PNG">
+<img src="img/6.png">
 
 ##  Active Connections
 
 -  Hiển thị các Connection và các Session đang hoạt động.
 
-<img src="img/7.PNG">
+<img src="img/7.png">
 <img src="img/8.PNG">
 
 ## Opened Folders
 - Hiển thị các thư mục đã mở
 
-<img src="img/9.PNG">
+<img src="img/9.png">
 
 # Configuration
 
-<img src="img/11.PNG">
+<img src="img/11.png">
 
 - Tại đây ta cấu hình của hệ thống
 
@@ -57,7 +57,7 @@
 ##  Domains
 
 - Hiển thị các domain đã được tạo. 
-<img src="img/13.PNG">
+<img src="img/13.png">
 - Tại đây có thể tạo, sửa, xóa domain và thiết lập các tùy chọn cho domain đó bằng cách click chuột phải rồi tùy chọn các tùy chỉnh
 <img src="img/14.PNG">
  
@@ -146,6 +146,7 @@
 - Chọn Enable built-in administrator account
 - Nhập password cho tài khoản. Tên tài khoản mặc định là Admin và không thể thay đổi
 - <img src="img/25.PNG">
+
 
 
 
