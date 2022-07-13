@@ -139,7 +139,13 @@
 
 - <img src="img/24.PNG">
 
-
+## Administration Settings
+- Trong Kerio-connect, có thể kích hoạt một tài khoản quản trị viên đặc biệt. Tài khoản này được tích hợp sẵn để truy cập giao diện quản trị.
+- Để kích hoạt giao diện quản trị ta làm như sau:
+- Đi tới phần Configuration -> Administration Settings
+- Chọn Enable built-in administrator account
+- Nhập password cho tài khoản. Tên tài khoản mặc định là Admin và không thể thay đổi
+- <img src="img/25.PNG">
 
 
 
