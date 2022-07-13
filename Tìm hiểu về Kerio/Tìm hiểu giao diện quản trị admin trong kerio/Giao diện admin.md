@@ -95,7 +95,7 @@
 - <img src="img/19.png">
 
 - Khôi phục dữ liệu Current status nhấp vào Start Now để tạo một bản sao lưu đầy đủ (chọn đường dẫn lưu bản sao lưu /mnt/backup)
-- <img src="img/19.PNG">
+- <img src="img/19.png">
 - <img src="img/20.PNG">
 - Thông báo như trong hình là thành công
 - Tiếp theo đó ta restore
