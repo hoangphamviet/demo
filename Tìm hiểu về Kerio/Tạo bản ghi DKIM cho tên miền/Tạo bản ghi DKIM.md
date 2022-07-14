@@ -11,16 +11,4 @@
 - Sau đó ta tạo bản ghi
 
 <img src="img/3.PNG">
-- Sau khi tạo thành công ta tiến hành gửi nhận 1 mail 
-
-<img src="img/4.png">
-
-<img src="img/5.PNG">
-
-- Ta thấy thư đã được gửi thành công
-- Tiếp theo ta sẽ gửi lại thư xem mail kerio có nhận thành công .
-
-<img src="img/6.PNG">
-
-
 
