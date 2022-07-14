@@ -146,8 +146,42 @@
 - Chọn Enable built-in administrator account
 - Nhập password cho tài khoản. Tên tài khoản mặc định là Admin và không thể thay đổi
 - <img src="img/25.png">
+## MyKerio
+- MyKerio là dịch vụ đám mây cho phép quản lý nhiều phiên bản của các thiết bị Kerio Connect thông qua giao diện web tập trung Thêm Kerio-connect và MyKerio
+
+## Spam Filter
+- Để phát hiện và loại bỏ thư rác, Kerio Connect sử dụng các phương pháp sau:
+
+- Kerio Anti-Spam: Bộ lọc nâng cao các tin nhắn spam bằng các dịch vụ quét trực tuyến của Bitdefender
+- Blacklists: Ta có thể tạo danh sách địa chỉ IP và đưa vào Blacklists để chặn tất cả các thư từ các địa chỉ đó
+- Caller ID và SPF: Có thể lọc ra các thư có địa chỉ gửi giả
+- Greylisting: Phương pháp Greylisting chỉ gửi tin nhắn từ những người đã biết
+- Spam Repellent: Đặt SMTP greeting trì hoãn để ngăn việc gửi thư được gửi từ máy chủ thư rác
+- Để đặt giới hạn cho việc đánh dấu thư là thư rác hay không phải thư rác ta làm như sau:
+
+- Tag Score - Nếu tin nhắn đạt đến điểm thẻ, Kerio Connect sẽ đánh dấu nó là thư rác.
+- Block Score - Nếu tin nhắn đạt đến điểm khối, Kerio Connect sẽ hủy tin nhắn đó
+
+- <img src="img/26.PNG">
+
+## Antivirus
+- Kerio Connect bao gồm Kerio Antivirus, một biện pháp bảo vệ tích hợp chống lại các email độc hại có chứa virus. Virus có thể lây nhiễm vào máy tính gây hại cho các tệp hoặc cho hệ thống máy tính
+- Cấu hình Antivirus
+- Trong giao diện quản trị, chuyển đến Configuration -> Antivirus
+- Để tự động cập nhật cơ sở dữ liệu virus, hãy chọn Check for update every [hours]. Nếu có bất kỳ bản cập nhật nào, nó sẽ tự động được tải xuống
+- Chọn hành động cho các thư có chứa virus. Kerio Connect có thể Discard the message(Hủy tin nhắn) hoặc Deliver the message with the malicious code removed(Gửi tin nhắn đã khi đã loại bỏ mã độc hại)
+- Ngoài ra, ta có thể chọn 2 tùy chọn để chuyển tiếp tin nhắn. Chọn Forward the original message to an administrator address(Chuyển tiếp thư gốc đến địa chỉ quản trị viên) hoặc Forward the filtered message to an administrator address(Chuyển tiếp thư đã lọc tới địa chỉ quản trị viên)
+- Đối với bất kỳ thông báo nào mà Kerio Antivirus không thể quét, Kerio Connect có thể Deliver the original message with a warning prefixed(Gửi tin nhắn gốc có cảnh báo) hoặc Reject the message as if it was a virus(Chuyển tiếp thư đã lọc tới địa chỉ quản trị viên)
+- <img src="img/27.PNG">
+## Attachment Filter
+- Nhiều loại virus được ẩn dưới dạng tập tin đính kèm. Kerio Connect có thể lọc ra các tập tin đính kèm email theo cài đặt . Nếu Kerio Connect phát hiện một tập tin đính kèm có vấn đề, nó sẽ xóa tập tin đính kèm và gửi thông báo mà không có tệp đó
+
+- <img src="img/28.PNG">
+
+## Message Filter
 
 
+ 
 
 
 
