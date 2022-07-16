@@ -44,3 +44,10 @@
  - Xác định 1 rule cho người gửi hoặc nhận
  - Ta điền server hostname và server port 
  - Nếu máy chủ yêu cầu xác thực , lựa chọn Relay server requires authentication và nhập user pass , lựa chọn phương thức xác thực . 
+
+ ## Queue Options - <img src="img/5.png">
+
+ - Maximun number of delivery threads : Số lượng tối đa tin nhắn được gửi cùng 1 lúc
+ - Delivery retry interval : Khoảng thời gian kerio thử gửi lại các tin nhắn.
+ - Bounce the message to sender if not delivered in : Khoảng thời gian kerio gửi lại các tin nhắn chưa được gửi
+ -  Sent the sender a waring if the message is not delivery after: Khoảng thời gian mà người gửi được thông báo rằng thư của họ chưa được gửi
