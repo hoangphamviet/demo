@@ -87,5 +87,6 @@ Internet blacklist
  
 ## Spam Repellent
 
-- Phần lớn Spam được tạo ra bởi các ứng dụng gửi thư hàng loạt chuyên biệt. Mục tiêu của phần mềm này là phân phối càng nhiều thư rác càng tốt trong một khoảng thời gian nhỏ. Tính năng chống thư rac Spam Repellent hoạt động bằng cách tạo độ trễ cho lời chào SMTP. Các mail server hợp pháp thường sẽ đợi ít nhất 2 phút trước khi đóng kết nối, trong khi các công cụ thư rác có thể chỉ đợi vài giây. Giá trị tốt là 25 giây. Điều chỉnh này sẽ loại bỏ một lượng đang kể thư rác mà không gây mất email hợp lệ. Hạn chế nhỏ duy nhất với cài đặt này là email Internet sẽ mất thêm 25 giây để nhận
+- Phần lớn Spam được tạo ra bởi các ứng dụng gửi thư hàng loạt chuyên biệt. Mục tiêu của phần mềm này là phân phối càng nhiều thư rác càng tốt trong một khoảng thời gian nhỏ. Tính năng chống thư rac Spam Repellent hoạt động bằng cách tạo độ trễ cho lời chào SMTP. Các mail server hợp pháp thường sẽ đợi ít nhất 2 phút trước khi đóng kết nối, trong khi các công cụ thư rác có thể chỉ đợi vài giây. Giá trị tốt là 25 giây. Điều chỉnh này sẽ loại bỏ một lượng đang kể thư rác mà không gây mất email hợp lệ. Hạn chế nhỏ duy nhất với cài đặt này là email Internet sẽ mất thêm 25 giây để nhận.
+
 <img src="img/9.png">
