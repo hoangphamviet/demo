@@ -1,0 +1,22 @@
+# Cài mail lên outlook
+
+- Ta vào control panel
+- <img src="img/1.png">
+- Ta chọn vào mail 
+- <img src="img/2.png">
+- Ta chọn vào mail accounts 
+- <img src="img/3.png">
+- Ta chọn new để thêm tài khoản mail 
+- <img src="img/4.png">
+- Ta chọn Manual rồi chọn tiếp next như trong hình
+- <img src="img/5.png">
+- Ta chọn POP or IMAP
+- <img src="img/6.png">
+- Ta điền thông tin tài khoản như trong hình 
+- <img src="img/7.png">
+- Sau đó ta đợi quá trình cài đặt thành công ấn finish
+- <img src="img/8.png">
+- <img src="img/9.png">
+-  Kiểm tra ta thấy tài khoản mail đã cài thành công lên outlook
+- <img src="img/10.png">
+-
