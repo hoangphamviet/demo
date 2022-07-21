@@ -24,3 +24,4 @@
 - Ta viết 1 thư gửi đến mail của zimbra
 - Ta thấy thông báo không gửi được thư
 - <img src="img/5.png">
+
