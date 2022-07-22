@@ -23,5 +23,4 @@
 - http://103.28.38.122/monitoring/check_mk/login.py
 - <img src="img/3.png">
 - <img src="img/4.png">
-- 
 
