@@ -343,7 +343,7 @@ T%C3%ACm%20hi%E1%BB%83u%20v%E1%BB%81%20cty.md
 
 - https://github.com/hoangphamviet/demo/blob/main/T%C3%ACm%20hi%E1%BB%83u%20v%C3%A0%20c%C3%A0i%20%C4%91%E1%BA%B7t%20zabbix/Gi%C3%A1m%20s%C3%A1t%20server%20CentOS%207%20b%E1%BA%B1ng%20zabbix-agent/Gi%C3%A1m%20s%C3%A1t%20server%20CentOS%207%20b%E1%BA%B1ng%20zabbix-agent.md
 
-## Ngày 27/6 
+## Ngày 27/7 
 
 1. Cấu hình zabbix gửi cảnh báo qua mail 
 - https://github.com/hoangphamviet/demo/blob/main/T%C3%ACm%20hi%E1%BB%83u%20v%C3%A0%20c%C3%A0i%20%C4%91%E1%BA%B7t%20zabbix/C%E1%BA%A5u%20h%C3%ACnh%20Zabbix%20Server%20g%E1%BB%ADi%20c%E1%BA%A3nh%20b%C3%A1o%20qua%20gmail/C%E1%BA%A5u%20h%C3%ACnh%20zabbix%20g%E1%BB%ADi%20%20c%E1%BA%A3nh%20b%C3%A1o%20qua%20mail.md
