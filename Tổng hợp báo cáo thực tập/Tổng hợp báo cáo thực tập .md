@@ -243,8 +243,107 @@ T%C3%ACm%20hi%E1%BB%83u%20v%E1%BB%81%20cty.md
 
 - https://github.com/hoangphamviet/demo/blob/main/T%C3%ACm%20hi%E1%BB%83u%20c%C3%A1c%20ch%E1%BB%A9c%20n%C4%83ng%20c%E1%BB%A7a%20zimbra/Thi%E1%BA%BFt%20l%E1%BA%ADp%20ch%E1%BB%AF%20k%C3%AD/Ch%E1%BB%AF%20k%C3%AD.md
 
+## Ngày 12/7
+### Tiếp tục tìm hiểu về zimbra 
+ 1. Cách tạo Whitelist / Blacklist
+- https://github.com/hoangphamviet/demo/blob/main/T%C3%ACm%20hi%E1%BB%83u%20c%C3%A1c%20ch%E1%BB%A9c%20n%C4%83ng%20c%E1%BB%A7a%20zimbra/C%C3%A1ch%20t%E1%BA%A1o%20Whitelist%20%20Blacklist%20tr%C3%AAn%20Zimbra%20Webmail/T%E1%BA%A1o%20whitelist%20blacklist.md
+
+2.  Hướng dẫn chỉnh sửa quota trong zimbra
+
+- https://github.com/hoangphamviet/demo/blob/main/T%C3%ACm%20hi%E1%BB%83u%20c%C3%A1c%20ch%E1%BB%A9c%20n%C4%83ng%20c%E1%BB%A7a%20zimbra/H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20ch%E1%BB%89nh%20s%E1%BB%ADa%20quota%20account%20email%20zimbra/H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20ch%E1%BB%89nh%20s%E1%BB%ADa%20quota.md
+
+3. Thay đổi tiêu đề trong zimbra
+- https://github.com/hoangphamviet/demo/blob/main/T%C3%ACm%20hi%E1%BB%83u%20c%C3%A1c%20ch%E1%BB%A9c%20n%C4%83ng%20c%E1%BB%A7a%20zimbra/H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn%20thay%20%C4%91%E1%BB%95i%20title%20web%20zimbra/Thay%20%C4%91%E1%BB%95i%20ti%C3%AAu%20%C4%91%E1%BB%81%20web%20zimbra.md
+
+4. Thay đổi logo cho zimbra
+- https://github.com/hoangphamviet/demo/blob/main/T%C3%ACm%20hi%E1%BB%83u%20c%C3%A1c%20ch%E1%BB%A9c%20n%C4%83ng%20c%E1%BB%A7a%20zimbra/Thay%20%C4%91%E1%BB%95i%20logo/Thay%20%C4%91%E1%BB%95i%20logo.md
+
+5. Thay đổi mật khẩu admin
+- https://github.com/hoangphamviet/demo/blob/main/T%C3%ACm%20hi%E1%BB%83u%20c%C3%A1c%20ch%E1%BB%A9c%20n%C4%83ng%20c%E1%BB%A7a%20zimbra/Thay%20%C4%91%E1%BB%95i%20m%E1%BA%ADt%20kh%E1%BA%A9u%20admin/Thay%20%C4%91%E1%BB%95i%20m%E1%BA%ADt%20kh%E1%BA%A9u%20admin.md
+
+## Ngày 13/7
+1. Cài đặt kerio
+- https://github.com/hoangphamviet/demo/blob/main/T%C3%ACm%20hi%E1%BB%83u%20v%E1%BB%81%20Kerio/C%C3%A0i%20%C4%91%E1%BA%B7t%20kerio/C%C3%A0i%20%C4%91%E1%BA%B7t%20kerio.md
+2. Tìm hiểu về giao diện kerio
+- https://github.com/hoangphamviet/demo/blob/main/T%C3%ACm%20hi%E1%BB%83u%20v%E1%BB%81%20Kerio/T%C3%ACm%20hi%E1%BB%83u%20giao%20di%E1%BB%87n%20qu%E1%BA%A3n%20tr%E1%BB%8B%20admin%20trong%20kerio/Giao%20di%E1%BB%87n%20admin.md
+
+## Ngày 14/7 
+### Tiếp tục tìm hiểu về kerio
+
+1. Cài đặt SSl 
+
+- https://github.com/hoangphamviet/demo/blob/main/T%C3%ACm%20hi%E1%BB%83u%20v%E1%BB%81%20Kerio/C%C3%A0i%20%C4%91%E1%BA%B7t%20SSL/C%C3%A0i%20%C4%91%E1%BA%B7t%20SSL.md
 
 
+2. Tạo bản ghi DKIM
+- https://github.com/hoangphamviet/demo/blob/main/T%C3%ACm%20hi%E1%BB%83u%20v%E1%BB%81%20Kerio/T%E1%BA%A1o%20b%E1%BA%A3n%20ghi%20DKIM%20cho%20t%C3%AAn%20mi%E1%BB%81n/T%E1%BA%A1o%20b%E1%BA%A3n%20ghi%20DKIM.md
 
+3. Tạo chữ ký
+-  https://github.com/hoangphamviet/demo/blob/main/T%C3%ACm%20hi%E1%BB%83u%20v%E1%BB%81%20Kerio/T%E1%BA%A1o%20ch%E1%BB%AF%20k%C3%AD%20trong%20kerio/T%E1%BA%A1o%20ch%E1%BB%AF%20k%C3%AD%20trong%20kerio.md
 
+4. Tìm hiểu về user và group 
 
+- https://github.com/hoangphamviet/demo/blob/main/T%C3%ACm%20hi%E1%BB%83u%20v%E1%BB%81%20Kerio/User%20v%C3%A0%20group%20trong%20kerio/user%20v%C3%A0%20group%20.md
+
+## Ngày 16/7
+
+### Tiếp tục tìm hiểu về kerio
+
+1. Check log trong kerio
+
+- https://github.com/hoangphamviet/demo/blob/main/T%C3%ACm%20hi%E1%BB%83u%20v%E1%BB%81%20Kerio/Check%20logs%20trong%20kerio/Logs%20trong%20kerio.md
+
+2.  Cấu hình trong việc gửi nhận mail
+
+- https://github.com/hoangphamviet/demo/blob/main/T%C3%ACm%20hi%E1%BB%83u%20v%E1%BB%81%20Kerio/C%E1%BA%A5u%20h%C3%ACnh%20mail%20trong%20vi%E1%BB%87c%20g%E1%BB%ADi%20v%C3%A0%20nh%E1%BA%ADn/C%E1%BA%A5u%20h%C3%ACnh%20mail%20g%E1%BB%ADi%20nh%E1%BA%ADn%20th%C6%B0.md
+
+ 3. Spam filter
+
+ - https://github.com/hoangphamviet/demo/blob/main/T%C3%ACm%20hi%E1%BB%83u%20v%E1%BB%81%20Kerio/Spam%20filter/Spam%20filter.md
+
+ 4. Cài đặt tài khoản mail kerio lên outlook
+ - https://github.com/hoangphamviet/demo/blob/main/T%C3%ACm%20hi%E1%BB%83u%20v%E1%BB%81%20Kerio/Th%C3%AAm%20t%C3%A0i%20kho%E1%BA%A3n%20mail%20kerio%20v%C3%A0o%20outlook/outlook.md
+
+## Ngày 19/7
+1. Tìm hiểu 1 số câu lệnh liên quan đến cấu hình và sử dụng zimbra
+- https://github.com/hoangphamviet/demo/blob/main/T%C3%ACm%20hi%E1%BB%83u%20c%C3%A1c%20ch%E1%BB%A9c%20n%C4%83ng%20c%E1%BB%A7a%20zimbra/C%C3%A1c%20l%E1%BB%87nh%20th%C6%B0%E1%BB%9Dng%20s%E1%BB%AD%20d%E1%BB%A5ng%20trong%20zimbra/C%C3%A2u%20l%E1%BB%87nh%20trong%20zimbra.md
+
+## Ngày 20/7 
+
+1. Cấu hình chặn thư gửi đến mail server zimbra
+-  https://github.com/hoangphamviet/demo/blob/main/T%C3%ACm%20hi%E1%BB%83u%20c%C3%A1c%20ch%E1%BB%A9c%20n%C4%83ng%20c%E1%BB%A7a%20zimbra/C%E1%BA%A5u%20h%C3%ACnh%20ch%E1%BA%B7n%20mail%20b%E1%BA%B1ng%20c%C3%A2u%20l%E1%BB%87nh/c%E1%BA%A5u%20h%C3%ACnh%20ch%E1%BA%B7n%20mail.md
+
+## Ngày 21/7
+
+1. Cài đặt SolidCP
+
+2. Tìm hiểu về FTP
+- https://github.com/hoangphamviet/demo/blob/main/T%C3%ACm%20hi%E1%BB%83u%20v%E1%BB%81%20ftp/t%C3%ACm%20hi%E1%BB%83u%20v%E1%BB%81%20giao%20th%E1%BB%A9c%20ftp.md
+
+## Ngày 22/7 
+
+1. Tìm hiểu về check_mk
+
+- https://github.com/hoangphamviet/demo/blob/main/T%C3%ACm%20hi%E1%BB%83u%20v%E1%BB%81%20Check_mk/check_mk%20l%C3%A0%20g%C3%AC/check_mk%20l%C3%A0%20g%C3%AC%20.md
+
+2. Cài đặt check_mk
+
+- https://github.com/hoangphamviet/demo/blob/main/T%C3%ACm%20hi%E1%BB%83u%20v%E1%BB%81%20Check_mk/c%C3%A0i%20%C4%91%E1%BA%B7t%20check_mk/C%C3%A0i%20%C4%91%E1%BA%B7t.md
+
+## Ngày 25/7
+
+1. Tìm hiểu về zabbix 
+- https://github.com/hoangphamviet/demo/blob/main/T%C3%ACm%20hi%E1%BB%83u%20v%C3%A0%20c%C3%A0i%20%C4%91%E1%BA%B7t%20zabbix/T%C3%ACm%20hi%E1%BB%83u%20v%E1%BB%81%20zabbix/t%C3%ACm%20hi%E1%BB%83u%20v%E1%BB%81%20zabbix.md
+
+2. Cài đặt zabbix
+
+- https://github.com/hoangphamviet/demo/blob/main/T%C3%ACm%20hi%E1%BB%83u%20v%C3%A0%20c%C3%A0i%20%C4%91%E1%BA%B7t%20zabbix/C%C3%A0i%20%C4%91%E1%BA%B7t%20zabbix/C%C3%A0i%20%C4%91%E1%BA%B7t%20zabbix.md
+
+3. Giám sát server centos 7 bằng zabbix-agent
+
+- https://github.com/hoangphamviet/demo/blob/main/T%C3%ACm%20hi%E1%BB%83u%20v%C3%A0%20c%C3%A0i%20%C4%91%E1%BA%B7t%20zabbix/Gi%C3%A1m%20s%C3%A1t%20server%20CentOS%207%20b%E1%BA%B1ng%20zabbix-agent/Gi%C3%A1m%20s%C3%A1t%20server%20CentOS%207%20b%E1%BA%B1ng%20zabbix-agent.md
+
+## Ngày 27/6 
+
+1. Cấu hình zabbix gửi cảnh báo qua mail 
+- https://github.com/hoangphamviet/demo/blob/main/T%C3%ACm%20hi%E1%BB%83u%20v%C3%A0%20c%C3%A0i%20%C4%91%E1%BA%B7t%20zabbix/C%E1%BA%A5u%20h%C3%ACnh%20Zabbix%20Server%20g%E1%BB%ADi%20c%E1%BA%A3nh%20b%C3%A1o%20qua%20gmail/C%E1%BA%A5u%20h%C3%ACnh%20zabbix%20g%E1%BB%ADi%20%20c%E1%BA%A3nh%20b%C3%A1o%20qua%20mail.md
