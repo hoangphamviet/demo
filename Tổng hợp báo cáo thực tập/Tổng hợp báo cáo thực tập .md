@@ -67,3 +67,184 @@ T%C3%ACm%20hi%E1%BB%83u%20v%E1%BB%81%20cty.md
 1. Tìm hiểu về LEMP và cài đặt:
 
 - https://github.com/hoangphamviet/demo/blob/main/T%C3%ACm%20hi%E1%BB%83u%20v%E1%BB%81%20LEMP/T%C3%ACm%20hi%E1%BB%83u%20v%E1%BB%81%20LEMP.md
+
+## Ngày 2/6 
+
+1. Tìm hiểu về WordPress
+
+## Ngày 3/6 
+
+1. Tìm hiểu và cài đặt  WP với LAMP trên centos 
+- https://github.com/hoangphamviet/demo/blob/main/C%C3%A0i%20%C4%91%E1%BA%B7t%20v%C3%A0%20c%E1%BA%A5u%20h%C3%ACnh%20WordPress%20v%E1%BB%9Bi%20LAMP%20tr%C3%AAn%20CentOS%207/C%C3%A0i%20%C4%91%E1%BA%B7t%20c%E1%BA%A5u%20h%C3%ACnh%20WP%20v%E1%BB%9Bi%20LAMP.md
+
+
+## Ngày 6/6
+
+1. Tìm hiểu 1 số câu lệnh cơ bản trong linux
+
+- https://github.com/hoangphamviet/demo/blob/main/T%C3%ACm%20hi%E1%BB%83u%20c%C3%A1c%20c%C3%A2u%20l%E1%BB%87nh%20c%C6%A1%20b%E1%BA%A3n%20tr%C3%AAn%20linux/C%C3%A1c%20l%E1%BB%87nh%20c%C6%A1%20b%E1%BA%A3n%20tr%C3%AAn%20linux.md
+
+## Ngày 7/6
+
+1. Tìm hiểu về ảo hóa
+
+- https://github.com/hoangphamviet/demo/blob/main/T%C3%ACm%20hi%E1%BB%83u%20v%E1%BB%81%20%E1%BA%A3o%20h%C3%B3a/%E1%BA%A2o%20h%C3%B3a.md
+
+2. Tìm hiểu về 1 công nghệ ảo hóa
+
+- https://github.com/hoangphamviet/demo/blob/main/T%C3%ACm%20hi%E1%BB%83u%20v%E1%BB%81%20c%C3%A1c%20c%C3%B4ng%20ngh%E1%BB%87%20%E1%BA%A3o%20h%C3%B3a/C%C3%B4ng%20ngh%E1%BB%87%20%E1%BA%A3o%20h%C3%B3a.md
+
+## Ngày 8/6
+
+ 1. Tìm hiểu về DNS và 1 số bản ghi
+
+- https://github.com/hoangphamviet/demo/blob/main/T%C3%ACm%20hi%E1%BB%83u%20v%E1%BB%81%20DNS%20v%C3%A0%20c%C3%A1c%20lo%E1%BA%A1i%20b%E1%BA%A3n%20ghi/DNS%20v%C3%A0%20c%C3%A1c%20lo%E1%BA%A1i%20b%E1%BA%A3n%20ghi.md
+
+## Ngày 9/6 
+
+1.  Tìm hiểu về mail server 
+
+- https://github.com/hoangphamviet/demo/blob/main/T%C3%ACm%20hi%E1%BB%83u%20v%E1%BB%81%20Email%20Server/Email%20Server.md
+
+## Ngày 10/6
+
+1. Tìm hiểu và cài đặt zimbra 
+
+- https://github.com/hoangphamviet/demo/blob/main/T%C3%ACm%20hi%E1%BB%83u%20v%E1%BB%81%20zimbra/T%C3%ACm%20hi%E1%BB%83u%20v%C3%A0%20c%C3%A0i%20%C4%91%E1%BA%B7t%20zimbra.md
+
+## Ngày 11/6 
+
+1. Tìm hiểu và cài đặt 1 số web trên windows server
+- https://github.com/hoangphamviet/demo/blob/main/T%E1%BA%A1o%201%20s%E1%BB%91%20web%20tr%C3%AAn%20windows%20server/T%E1%BA%A1o%201%20s%E1%BB%91%20web%20tr%C3%AAn%20windows%20server.md
+
+## Ngày 13/6 
+
+ 1. Tìm hiểu các loại bản ghi và chức năng
+
+ - https://github.com/hoangphamviet/demo/blob/main/T%C3%ACm%20hi%E1%BB%83u%20v%E1%BB%81%20c%C3%A1c%20lo%E1%BA%A1i%20b%E1%BA%A3n%20ghi%20v%C3%A0%20c%C3%A1ch%20th%E1%BB%A9c%20ho%E1%BA%A1t%20%C4%91%E1%BB%99ng/B%E1%BA%A3n%20ghi.md
+
+ ## Ngày 14/6 
+
+ 1. Tìm hiểu về tường lửa và cài đặt 1 số loại tường lửa
+
+ - https://github.com/hoangphamviet/demo/blob/main/T%C3%ACm%20hi%E1%BB%83u%20v%E1%BB%81%20t%C6%B0%E1%BB%9Dng%20l%E1%BB%ADa%20%2C%20c%C3%A0i%20%C4%91%E1%BA%B7t%201%20s%E1%BB%91%20lo%E1%BA%A1i%20t%C6%B0%E1%BB%9Dng%20l%E1%BB%ADa/t%C6%B0%E1%BB%9Dng%20l%E1%BB%ADa.md
+
+ ## Ngày 15/6
+
+ 1. Tìm hiểu về tường lửa và cài đặt csf:
+
+ - https://github.com/hoangphamviet/demo/blob/75d94122c56bc235dcbdd075e063727fd72205f6/T%C3%ACm%20hi%E1%BB%83u%20v%E1%BB%81%20t%C6%B0%E1%BB%9Dng%20l%E1%BB%ADa%20,%20c%C3%A0i%20%C4%91%E1%BA%B7t%201%20s%E1%BB%91%20lo%E1%BA%A1i%20t%C6%B0%E1%BB%9Dng%20l%E1%BB%ADa/t%C6%B0%E1%BB%9Dng%20l%E1%BB%ADa.md
+
+ ## Ngày 16/6
+
+ 1. Tìm hiểu về DirectAdmin
+
+ - https://github.com/hoangphamviet/demo/blob/main/T%C3%ACm%20hi%E1%BB%83u%20v%C3%A0%20c%C3%A0i%20%C4%91%E1%BA%B7t%20DirectAdmin/DirectAdmin%20l%C3%A0%20g%C3%AC.md
+
+ 2. Tìm hiểu về cPanel
+
+ - https://github.com/hoangphamviet/demo/blob/main/T%C3%ACm%20hi%E1%BB%83u%20v%C3%A0%20c%C3%A0i%20%C4%91%E1%BA%B7t%20%20v%E1%BB%81%20cPanel/cPanel.md
+
+ ## Ngày 17/6
+
+ 1. Tìm hiểu và cài đặt Plesk 
+
+ - https://github.com/hoangphamviet/demo/blob/main/T%C3%ACm%20hi%E1%BB%83u%20v%C3%A0%20c%C3%A0i%20%C4%91%E1%BA%B7t%20Plesk/Plesk.md
+
+## Ngày 18/6
+1.  Tìm hiểu thêm về các chức năng công dụng của Plesk
+
+- https://github.com/hoangphamviet/demo/blob/main/T%C3%ACm%20hi%E1%BB%83u%20v%C3%A0%20c%C3%A0i%20%C4%91%E1%BA%B7t%20Plesk/Plesk.md
+
+## Ngày 20/6
+1. Tiếp tục tìm hiểu về plesk:
+
+- https://github.com/hoangphamviet/demo/blob/main/T%C3%ACm%20hi%E1%BB%83u%20ti%E1%BA%BFp%20v%E1%BB%81%20Plesk%20c%C3%B4ng%20c%E1%BB%A5%20ch%E1%BB%A9c%20n%C4%83ng%20qu%E1%BA%A3n%20l%C3%BD%20cho%20nh%C3%A0%20cung%20c%E1%BA%A5p%20d%E1%BB%8Bch%20v%E1%BB%A5/Plesk.md
+
+## Ngày 21/6
+
+1. Tìm hiểu về directadmin và đi training về ssl
+
+## Ngày 22/6
+
+1. Tìm hiểu về các chức năng của DirectAdmin
+
+- https://github.com/hoangphamviet/demo/blob/main/T%C3%ACm%20hi%E1%BB%83u%20v%C3%A0%20c%C3%A0i%20%C4%91%E1%BA%B7t%20DirectAdmin/DirectAdmin%20l%C3%A0%20g%C3%AC.md
+
+## Ngày 23/6 
+
+1. Tiếp tục tìm hiểu về các chức năng của  DirectAdmin
+
+- https://github.com/hoangphamviet/demo/blob/main/T%C3%ACm%20hi%E1%BB%83u%20v%C3%A0%20c%C3%A0i%20%C4%91%E1%BA%B7t%20DirectAdmin/DirectAdmin%20l%C3%A0%20g%C3%AC.md
+
+## Ngày 24/6 
+
+1. Tìm hiểu về backup và restore
+
+- https://github.com/hoangphamviet/demo/blob/main/Backup%20v%C3%A0%20restore/backup%20v%C3%A0%20restore%20l%C3%A0%20g%C3%AC.md
+
+
+## Ngày 27/6 
+
+1. Tìm hiểu về SSL
+
+- https://github.com/hoangphamviet/demo/blob/main/T%C3%ACm%20hi%E1%BB%83u%20v%E1%BB%81%20SSL/SSL.md
+
+## Ngày 28/6 
+
+1. Tìm hiểu về SSL và cài đặt trên control panel
+- https://github.com/hoangphamviet/demo/blob/main/T%C3%ACm%20hi%E1%BB%83u%20v%E1%BB%81%20SSL/SSL.md
+
+## Ngày 29/6 
+
+1. So sánh các chứng chỉ SSL có phí và miễn phí 
+- https://github.com/hoangphamviet/demo/blob/main/SSL/So%20s%C3%A1nh%20ch%E1%BB%A9ng%20ch%E1%BB%89%20c%C3%B3%20ph%C3%AD%20v%C3%A0%20m%E1%BA%A5t%20ph%C3%AD/So%20s%C3%A1nh%20ch%E1%BB%A9ng%20ch%E1%BB%89%20SSL%20c%C3%B3%20ph%C3%AD%20v%C3%A0%20m%E1%BA%A5t%20ph%C3%AD.md
+
+2. Các phương pháp xác thực SSL 
+
+- https://github.com/hoangphamviet/demo/blob/main/SSL/X%C3%A1c%20minh%20SSL/C%C3%A1c%20b%C6%B0%E1%BB%9Bc%20x%C3%A1c%20minh%20SSL.md
+
+## Ngày 1/7 
+
+1. Cài đặt ssl Let's Encrypt trên apache và nginx
+
+- https://github.com/hoangphamviet/demo/blob/main/SSL/C%C3%A0i%20%C4%91%E1%BA%B7t%20th%E1%BB%A7%20c%C3%B4ng/C%C3%A0i%20%C4%91%E1%BA%B7t%20SSL%20Let's%20Encrypt.md
+
+## Ngày 4/7
+
+1. Tìm hiểu về CustomBuild và cài đặt 1 số phiên bản php trên DA
+- https://github.com/hoangphamviet/demo/blob/main/Custom%20build%20DA/Custom%20build%20DA.md
+
+2. Tìm hiểu về php-fpm , suphp , cài đặt php-fpm trên nginx
+
+- https://github.com/hoangphamviet/demo/blob/main/Php-fpm%20%2CSUPHP/php-fpm%2C%20suphp%20l%C3%A0%20g%C3%AC.md
+- https://github.com/hoangphamviet/demo/blob/main/Php-fpm%20%2CSUPHP/C%C3%A0i%20%C4%91%E1%BA%B7t%20php-fpm%2Csuphp.md
+
+## Ngày 5/7
+ 1. Tìm hiểu và cài đặt cấu hình Nginx Reverse Proxy Apache
+- https://github.com/hoangphamviet/demo/blob/main/T%C3%ACm%20hi%E1%BB%83u%20v%E1%BB%81%20Nginx%20Proxy%20Apache/T%C3%ACm%20hi%E1%BB%83u%20l%C3%BD%20thuy%E1%BA%BFt/Nginx%20Proxy%20Apache%20l%C3%A0%20g%C3%AC.md
+
+- https://github.com/hoangphamviet/demo/blob/main/T%C3%ACm%20hi%E1%BB%83u%20v%E1%BB%81%20Nginx%20Proxy%20Apache/C%C3%A0i%20%C4%91%E1%BA%B7t%20Nginx%20Proxy%20Apache/C%C3%A0i%20%C4%91%E1%BA%B7t%20.md
+
+## Ngày 7/7
+
+ ### Tìm hiểu các chức năng của zimbra
+
+ 1. Cấu hình gửi nhận mail 
+ - https://github.com/hoangphamviet/demo/blob/main/T%C3%ACm%20hi%E1%BB%83u%20c%C3%A1c%20ch%E1%BB%A9c%20n%C4%83ng%20c%E1%BB%A7a%20zimbra/Ki%E1%BB%83m%20tra%20ch%E1%BB%A9c%20n%C4%83ng%20g%E1%BB%ADi%20v%C3%A0%20nh%E1%BA%ADn%20mail/G%E1%BB%ADi%20nh%E1%BA%ADn%20mail.md
+
+ 2. Các chức năng về user và group
+ - https://github.com/hoangphamviet/demo/blob/main/T%C3%ACm%20hi%E1%BB%83u%20c%C3%A1c%20ch%E1%BB%A9c%20n%C4%83ng%20c%E1%BB%A7a%20zimbra/C%C3%A1c%20ch%E1%BB%A9c%20n%C4%83ng%20user%20%20t%E1%BA%A1o%20s%E1%BB%ADa%20x%C3%B3a%20thay%20%C4%91%E1%BB%95i%20m%E1%BA%ADt%20kh%E1%BA%A9u/Taikhoan.md
+
+ 3.  Thiết lập các chính sách về mật khẩu
+- https://github.com/hoangphamviet/demo/blob/main/T%C3%ACm%20hi%E1%BB%83u%20c%C3%A1c%20ch%E1%BB%A9c%20n%C4%83ng%20c%E1%BB%A7a%20zimbra/C%C3%A1c%20ch%C3%ADnh%20s%C3%A1ch%20thi%E1%BA%BFt%20l%E1%BA%ADp%20m%E1%BA%ADt%20kh%E1%BA%A9u/M%E1%BA%ADt%20kh%E1%BA%A9u.md
+
+4. Thiết lập chữ ký
+
+- https://github.com/hoangphamviet/demo/blob/main/T%C3%ACm%20hi%E1%BB%83u%20c%C3%A1c%20ch%E1%BB%A9c%20n%C4%83ng%20c%E1%BB%A7a%20zimbra/Thi%E1%BA%BFt%20l%E1%BA%ADp%20ch%E1%BB%AF%20k%C3%AD/Ch%E1%BB%AF%20k%C3%AD.md
+
+
+
+
+
+
